@@ -1,0 +1,2556 @@
+address,price,bedrooms,bathrooms,parking,Property_Features,number_of_schools,closest_school
+Narrabundah,900,3,2,2,Energy Eff. Rating: 4,15,598 
+Kambah,486,3,1,1,nan,14,682 
+Phillip,630,2,2,2,Built in wardrobes,14,728 
+Kingston,530,2,1,1,Dishwasher,15,414 
+Narrabundah,600,2,2,1,nan,13,458 
+O'Connor,700,3,1,0,nan,13,318 
+Page,810,4,2,2,Air conditioning,13,951 
+Wright,440,1,1,1,Dishwasher,9,264 
+Downer,650,3,1,2,nan,15,495 
+Kingston,510,1,1,1,nan,15,1104 
+City,550,1,1,1,nan,13,1075 
+Garran,640,3,1,1,nan,13,484 
+Pearce,470,2,1,1,nan,13,448 
+Reid,700,2,2,2,Pets Allowed,13,790 
+Mawson,360,1,1,1,nan,13,626 
+Barton,580,1,1,1,Energy Eff. Rating: 6,14,785 
+Wright,470,1,1,1,nan,10,646 
+Giralang,575,3,1,2,nan,9,446 
+Red Hill,390,1,1,1,nan,14,416 
+Narrabundah,900,3,2,2,Energy Eff. Rating: 4,15,598 
+Coombs,650,3,2,2,Energy Eff. Rating: 4,9,647 
+Forde,1200,5,3,4,Air conditioning,10,286 
+Griffith,1190,3,2,2,Secure Parking,15,520 
+Bruce,475,0,1,1,Air conditioning,12,1016 
+Bonner,750,3,2,2,nan,9,306 
+Florey,650,3,1,1,Internal Laundry,12,177 
+Barton,560,1,1,1,Intercom,14,806 
+Braddon,550,1,1,1,Dishwasher,13,668 
+Belconnen,575,2,2,2,nan,10,200 
+Narrabundah,750,2,2,2,Air conditioning,15,421 
+Turner,nan,1,1,1,Energy Eff. Rating: 5,13,472 
+Forde,895,4,2,2,Air conditioning,10,331 
+Griffith,620,1,1,1,nan,15,520 
+Griffith,560,1,1,1,Air conditioning,15,789 
+Kingston,500,1,1,1,nan,15,355 
+Kingston,675,2,2,1,Air conditioning,15,412 
+Greenway,540,2,2,1,nan,12,1114 
+Harrison,720,4,2,2,nan,7,597 
+Phillip,495,1,1,1,nan,14,871 
+Belconnen,520,2,1,1,nan,10,635 
+Casey,650,3,2,2,Built in wardrobes,10,909 
+O'Connor,505,2,1,1,Pets Allowed,13,1270 
+Kingston,560,2,1,1,nan,15,689 
+Braddon,550,1,1,1,Furnished,13,603 
+Ngunnawal,560,3,1,1,nan,11,819 
+Harrison,605,2,2,1,nan,9,261 
+Torrens,545,3,1,1,nan,13,527 
+Kambah,670,3,2,2,Energy Eff. Rating: 3,13,630 
+Pearce,500,2,1,1,nan,13,512 
+Bruce,450,1,1,1,Built in wardrobes,12,943 
+Campbell,700,2,1,1,nan,13,684 
+Griffith,580,2,1,1,Secure Parking,15,694 
+Dickson,800,3,2,2,Energy Eff. Rating: 6.5,14,246 
+Phillip,850,3,2,2,Air conditioning,14,488 
+Dunlop,800,4,2,2,Air conditioning,9,731 
+Dickson,630,2,2,1,nan,14,580 
+Casey,780,4,2,2,Secure Parking,10,1053 
+Barton,650,2,2,1,nan,14,806 
+Phillip,590,2,2,1,Air conditioning,16,508 
+Bruce,480,1,1,1,Secure Parking,12,996 
+Belconnen,480,1,1,1,Pets Allowed,10,228 
+Kingston,815,2,2,2,nan,15,1143 
+Phillip,400,1,1,0,nan,16,508 
+Forde,850,4,2,2,Built in wardrobes,10,186 
+Narrabundah,460,1,1,1,Alarm System,14,459 
+Braddon,800,3,1,2,nan,12,100 
+Isaacs,900,4,2,2,nan,13,919 
+Braddon,850,2,2,2,Furnished,13,660 
+Phillip,450,1,1,1,nan,14,424 
+Nicholls,nan,4,2,2,Ensuite,12,603 
+Chisholm,540,2,1,1,nan,10,672 
+Campbell,540,1,1,1,Energy Eff. Rating: 6,13,628 
+Phillip,610,2,2,1,Balcony,14,453 
+Kingston,735,1,1,1,Furnished,15,1142 
+Narrabundah,620,2,2,1,Floorboards,14,923 
+Lyneham,530,2,1,1,Secure Parking,12,1116 
+Harrison,800,4,2,2,Secure Parking,8,651 
+Waramanga,530,2,1,1,Energy Eff. Rating: 5,13,295 
+Braddon,760,2,2,2,Balcony,13,546 
+Kaleen,680,3,2,2,Secure Parking,12,587 
+Braddon,750,2,2,2,Balcony,13,444 
+Dunlop,730,4,2,2,Built in wardrobes,9,1375 
+Weston,700,3,1,1,nan,14,372 
+Lyneham,800,3,2,2,Energy Eff. Rating: 6,13,575 
+Lyneham,355,1,1,0,nan,13,443 
+Kaleen,nan,2,1,2,Built in wardrobes,12,211 
+Franklin,590,3,2,1,Built in wardrobes,10,621 
+Griffith,690,1,1,1,Air conditioning,15,753 
+Casey,590,2,2,1,Energy Eff. Rating: 6,10,666 
+Latham,735,4,2,1,Floorboards,10,252 
+Griffith,660,2,2,2,Ensuite,15,467 
+Lyons,650,3,2,2,Ensuite,14,941 
+Gungahlin,435,1,1,1,nan,10,697 
+Belconnen,480,1,1,1,Air conditioning,10,179 
+Campbell,390,1,1,1,nan,13,304 
+Whitlam,1100,4,3,2,Study,5,3159 
+Phillip,460,1,1,1,Secure Parking,14,399 
+City,560,1,1,1,Air conditioning,13,1137 
+Curtin,850,5,2,2,Energy Eff. Rating: 1.5,13,614 
+Phillip,450,1,1,0,Air conditioning,16,494 
+Taylor,710,4,2,2,Energy Eff. Rating: 7.5,8,867 
+Kingston,480,1,1,1,Intercom,15,901 
+Fraser,550,3,1,2,Balcony,8,364 
+Amaroo,599,4,2,1,nan,11,873 
+Strathnairn,850,4,2,2,Pets Allowed,8,2287 
+Belconnen,480,1,1,1,Built in wardrobes,10,198 
+Phillip,450,1,1,1,nan,14,409 
+Griffith,660,2,2,2,Pets Allowed,15,853 
+Belconnen,510,2,1,1,nan,10,644 
+Belconnen,550,2,1,1,Air conditioning,10,223 
+Pearce,700,2,2,2,Energy Eff. Rating: 4,13,518 
+Ngunnawal,540,2,1,1,Garden / Courtyard,10,1202 
+Phillip,400,1,1,0,Air conditioning,14,399 
+Gungahlin,575,4,1,1,Dishwasher,10,799 
+Gungahlin,430,1,1,1,Air conditioning,10,857 
+Melba,630,3,1,2,Study,9,447 
+Hughes,350,1,1,0,nan,13,301 
+Lyneham,650,2,2,2,nan,13,435 
+Rivett,730,3,2,2,Courtyard,14,1032 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Bruce,595,2,2,2,Pets Allowed,12,686 
+Phillip,475,1,1,1,Furnished,14,720 
+Watson,620,3,1,2,Built in wardrobes,14,439 
+Macgregor,480,2,1,3,Secure Parking,10,696 
+Holt,520,2,2,2,nan,10,812 
+Kingston,550,1,1,1,Close to transport,15,615 
+Greenway,465,1,1,1,nan,13,1030 
+Hackett,950,3,2,2,Air conditioning,13,178 
+Lyneham,550,1,1,1,Floorboards,13,320 
+Braddon,590,2,1,1,nan,13,195 
+Wright,580,2,2,2,nan,9,327 
+Page,365,1,1,1,Close to transport,12,419 
+Narrabundah,650,2,2,1,Air conditioning,13,459 
+Gungahlin,450,1,1,1,nan,11,580 
+Macquarie,740,3,1,1,Secure Parking,9,522 
+Farrer,585,3,1,1,nan,13,1170 
+Calwell,750,4,2,1,Air conditioning,10,631 
+Gungahlin,440,1,1,1,Close to transport,10,674 
+Curtin,720,3,1,1,nan,13,223 
+Dickson,650,2,1,2,Secure Parking,14,443 
+Red Hill,990,4,2,2,Swimming Pool,14,554 
+Farrer,775,3,2,2,nan,13,670 
+Gungahlin,nan,4,2,2,Heating,10,603 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+Phillip,465,1,1,1,Air conditioning,14,424 
+Phillip,840,3,2,2,Gym,14,458 
+Garran,720,3,2,2,nan,13,404 
+Higgins,650,3,2,2,Secure Parking,10,510 
+Belconnen,470,2,1,1,nan,10,660 
+Kingston,nan,3,2,2,Heating,15,692 
+Kingston,690,2,2,2,nan,15,1136 
+Griffith,590,1,1,1,Secure Parking,15,753 
+Belconnen,480,1,1,1,nan,10,325 
+Franklin,nan,1,1,1,Built in wardrobes,11,908 
+Reid,630,2,2,1,Air conditioning,13,790 
+Phillip,450,1,1,1,Air conditioning,14,399 
+Phillip,440,1,1,1,Air conditioning,14,424 
+Griffith,650,2,2,2,Pets Allowed,15,201 
+Kingston,960,3,3,2,nan,15,847 
+Lyneham,680,2,2,2,Spacious two-bedroom unit,13,435 
+Griffith,570,2,2,1,nan,15,690 
+Ngunnawal,550,3,2,2,Air conditioning,11,1039 
+Phillip,710,3,2,2,Balcony,14,547 
+Franklin,nan,2,2,2,nan,10,919 
+Gungahlin,460,1,1,1,Gym,12,409 
+Strathnairn,800,4,2,2,Built in wardrobes,8,2088 
+Scullin,500,2,1,1,Built in wardrobes,13,474 
+Holt,490,2,1,1,Dishwasher,10,812 
+Kingston,600,2,2,1,nan,15,356 
+Denman Prospect,480,1,1,1,Pets Allowed,7,737 
+Phillip,520,1,1,1,Gym,14,405 
+Lyneham,400,1,1,1,nan,13,306 
+City,720,2,2,2,Air conditioning,13,1235 
+Phillip,440,1,1,1,Air conditioning,16,508 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Phillip,450,1,1,1,nan,14,569 
+McKellar,nan,3,3,2,Air conditioning,12,1348 
+Amaroo,580,3,2,1,Secure Parking,11,793 
+Evatt,530,2,1,1,Built in wardrobes,12,433 
+Banks,520,3,1,1,nan,6,1060 
+Throsby,775,4,2,1,nan,7,544 
+Lawson,680,3,2,2,Secure Parking,12,965 
+Kingston,680,1,1,1,Balcony,15,1142 
+Torrens,680,3,2,1,nan,13,296 
+Denman Prospect,460,1,1,1,Air conditioning,7,573 
+Phillip,500,1,1,1,nan,14,384 
+Kingston,800,2,2,1,Air conditioning,15,757 
+Reid,500,1,2,1,nan,13,735 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Moncrieff,520,2,2,1,nan,8,390 
+Coombs,680,3,2,2,nan,10,666 
+Moncrieff,520,2,2,1,Energy Eff. Rating: 7.5,8,390 
+Banks,610,3,1,2,nan,6,1026 
+Forde,780,4,2,2,Energy Eff. Rating: 5,9,874 
+Watson,490,2,1,1,Energy Eff. Rating: 7,11,1826 
+Kingston,750,2,2,2,nan,15,677 
+Kingston,nan,1,1,1,Heating,15,804 
+Casey,nan,3,2,1,Air conditioning,10,1109 
+Braddon,500,1,1,1,Air conditioning,13,676 
+Greenway,540,1,1,1,Air conditioning,12,175 
+Dickson,650,2,2,1,nan,14,629 
+Phillip,550,2,1,1,Alarm System,14,547 
+Hackett,990,4,3,2,Dishwasher,11,926 
+Kingston,650,3,2,1,Air conditioning,15,572 
+Curtin,800,5,3,1,nan,13,813 
+Phillip,530,2,2,1,Air conditioning,14,399 
+Phillip,450,1,1,1,Energy Eff. Rating: 6,14,547 
+Phillip,630,2,2,2,Air conditioning,14,547 
+Phillip,670,2,2,2,Air conditioning,14,547 
+Fraser,390,1,1,0,Close to transport,8,546 
+Mawson,700,4,1,2,nan,13,729 
+Campbell,520,1,1,1,nan,13,171 
+Dickson,600,2,2,1,Gym,14,235 
+Harrison,nan,3,2,1,Built in wardrobes,8,239 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+Amaroo,510,2,1,2,Pets Allowed,11,381 
+Wright,540,2,2,1,Pets Allowed,9,757 
+City,735,2,1,1,Pets Allowed,13,1645 
+Hughes,600,4,1,3,Courtyard,13,382 
+Flynn,nan,3,2,2,Built in wardrobes,10,908 
+Florey,680,2,2,2,nan,12,438 
+Bruce,835,3,2,2,Air conditioning,12,412 
+Phillip,500,1,1,1,Secure Parking,14,813 
+Torrens,1000,5,2,1,nan,13,281 
+Braddon,600,1,1,1,Air conditioning,13,436 
+Phillip,450,1,1,1,Double glazed windows,14,399 
+Campbell,510,2,1,1,nan,13,298 
+Coombs,560,2,2,2,Intercom,9,647 
+Kingston,570,2,1,2,Energy Eff. Rating: 2,15,738 
+Harrison,580,2,2,2,Built in wardrobes,11,435 
+Greenway,560,2,2,1,nan,12,570 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Barton,600,1,1,1,Air conditioning,14,737 
+Phillip,620,2,1,2,Open Fire Place,13,448 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Narrabundah,610,1,1,1,Fully fenced,15,421 
+Farrer,520,2,1,1,nan,13,601 
+Belconnen,590,2,1,2,Partially furnished,10,228 
+Turner,500,1,1,1,Pets Allowed,13,266 
+Braddon,480,1,1,0,Pets Allowed,13,644 
+City,800,2,2,2,Balcony,13,1107 
+Belconnen,490,1,1,1,Balcony,10,273 
+Melba,550,2,1,1,nan,11,368 
+Phillip,760,3,2,2,Energy Eff. Rating: 6,14,389 
+Phillip,500,1,1,1,nan,14,720 
+Coombs,465,1,1,1,nan,9,439 
+Phillip,630,2,2,1,Gym,14,405 
+Campbell,550,1,1,1,Secure Parking,13,309 
+Lawson,650,3,3,3,Air conditioning,12,1014 
+Kingston,500,1,1,1,nan,15,556 
+Waramanga,675,3,2,2,Air conditioning,13,436 
+Taylor,500,1,1,0,nan,9,564 
+Belconnen,570,2,2,1,Pets Allowed,10,273 
+Wright,420,1,1,1,Pets Allowed,9,757 
+Belconnen,540,1,1,1,Air conditioning,10,531 
+Kingston,535,1,1,1,nan,15,412 
+Cook,630,3,2,1,Air conditioning,10,615 
+Bruce,440,1,1,1,Dishwasher,12,943 
+Belconnen,500,1,1,1,Pets Allowed,10,252 
+Bruce,480,1,1,1,Air conditioning,12,879 
+Denman Prospect,620,2,2,2,Open plan living,7,778 
+Wanniassa,470,2,1,1,Balcony,11,397 
+Griffith,480,1,1,1,nan,15,595 
+Phillip,470,1,1,1,Energy Eff. Rating: 6,14,728 
+Griffith,nan,2,1,1,Built in wardrobes,15,333 
+Downer,630,2,2,1,Air conditioning,15,881 
+Nicholls,800,5,2,2,Energy Eff. Rating: 3,12,423 
+Campbell,nan,3,2,2,Built in wardrobes,13,411 
+Turner,550,1,1,1,Furnished,13,1172 
+Lyneham,520,1,1,1,Energy Eff. Rating: 5.5,13,435 
+Phillip,420,1,1,1,Air conditioning,14,547 
+Braddon,780,2,2,2,nan,13,601 
+Isaacs,895,5,3,2,Close to transport,13,1056 
+Harrison,450,1,1,1,nan,9,113 
+Hughes,760,3,1,3,nan,13,300 
+Coombs,650,3,2,2,nan,9,348 
+Denman Prospect,510,1,1,1,Air conditioning,7,834 
+Deakin,1300,4,2,2,Air conditioning,15,573 
+Phillip,nan,1,1,1,Built in wardrobes,14,453 
+Braddon,nan,2,2,2,Built in wardrobes,13,601 
+Turner,540,1,1,1,Secure Parking,13,456 
+Braddon,650,2,2,1,nan,13,788 
+Narrabundah,700,3,1,1,nan,14,625 
+Franklin,765,4,2,2,Air conditioning,11,488 
+Turner,410,1,1,1,Close to transport,13,1112 
+Kambah,550,3,1,1,nan,14,485 
+Page,585,3,1,1,Air conditioning,13,1154 
+Kingston,850,2,3,2,Air conditioning,15,805 
+Wanniassa,520,2,1,1,nan,11,397 
+Lyneham,625,1,1,1,Air conditioning,13,508 
+Weston,500,2,2,2,Secure Parking,14,398 
+Taylor,600,2,2,2,Energy Eff. Rating: 7,10,156 
+Denman Prospect,930,4,2,2,Air conditioning,7,742 
+Lyneham,500,1,1,0,Air conditioning,13,508 
+Amaroo,800,4,2,2,Secure Parking,11,874 
+Phillip,750,3,2,2,Balcony,14,892 
+Giralang,830,5,3,2,nan,11,358 
+Strathnairn,785,4,2,2,Built in wardrobes,8,1932 
+Barton,650,1,1,1,Furnished,14,807 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Braddon,630,2,2,1,nan,13,882 
+Dunlop,580,3,1,1,Built in wardrobes,9,1629 
+Phillip,nan,1,1,1,Built in wardrobes,14,564 
+Braddon,595,1,1,1,Air conditioning,13,518 
+Turner,630,2,2,2,Built in wardrobes,13,1172 
+Phillip,nan,1,1,1,Furnished,14,384 
+Macquarie,650,3,1,1,Floorboards,9,295 
+Pearce,560,2,2,1,nan,13,181 
+Belconnen,550,2,2,1,Pets Allowed,10,232 
+Phillip,580,2,1,1,Air conditioning,16,508 
+Phillip,nan,3,2,2,nan,14,547 
+Phillip,nan,3,2,2,nan,14,547 
+Braddon,550,1,1,1,Air conditioning,13,814 
+Dickson,600,1,2,1,Air conditioning,14,508 
+Denman Prospect,660,2,2,2,nan,7,711 
+Wright,nan,4,2,2,Built in wardrobes,9,578 
+O'Connor,490,1,1,1,Built in wardrobes,13,193 
+Dickson,667,2,2,2,nan,14,557 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+City,570,1,1,1,Balcony,13,1989 
+Red Hill,480,1,1,1,Air conditioning,14,189 
+Belconnen,540,2,2,1,Air conditioning,10,244 
+Gilmore,750,4,2,2,Secure Parking,9,437 
+Kingston,580,1,1,1,nan,15,1058 
+Page,390,1,1,1,Built in wardrobes,13,593 
+Phillip,750,3,2,2,nan,14,458 
+Belconnen,440,1,1,1,nan,10,635 
+Franklin,570,2,2,2,Energy Eff. Rating: 6,10,983 
+Franklin,600,2,2,2,Air conditioning,9,308 
+Franklin,560,2,2,2,Secure Parking,9,368 
+Franklin,550,2,2,2,nan,9,337 
+Forrest,nan,3,2,2,nan,14,471 
+Evatt,700,4,2,1,Energy Eff. Rating: 2,12,749 
+Phillip,510,1,1,1,Air conditioning,14,547 
+Barton,730,2,1,1,Spacious living and dining areas,14,290 
+Turner,750,2,2,2,nan,13,385 
+Yarralumla,nan,4,2,2,nan,14,183 
+Garran,nan,4,3,2,Energy Eff. Rating: 6.5,13,419 
+Barton,520,1,1,1,Air conditioning,14,737 
+Forde,680,3,1,2,Fully fenced,10,220 
+Belconnen,600,2,2,2,Intercom,10,204 
+Ngunnawal,570,3,1,1,Built in wardrobes,10,310 
+Belconnen,570,2,2,1,Pets Allowed,10,223 
+Mawson,720,3,2,2,nan,13,484 
+Phillip,600,2,2,2,Balcony,14,547 
+Kambah,nan,3,1,2,Floorboards,14,663 
+Charnwood,nan,3,2,2,Heating,9,476 
+Amaroo,420,1,1,1,Pets Allowed,11,381 
+Dickson,780,2,2,1,Air conditioning,14,508 
+Lyons,730,4,1,2,Energy Eff. Rating: 1.5,14,926 
+Braddon,570,1,1,1,Air conditioning,13,728 
+Phillip,460,1,1,1,Air conditioning,14,399 
+Dickson,720,4,2,2,Secure Parking,14,257 
+Theodore,735,4,2,2,Air conditioning,8,618 
+Belconnen,480,2,1,1,Floorboards,10,689 
+Dickson,675,1,1,1,Air conditioning,14,508 
+Belconnen,440,1,1,0,Built in wardrobes,10,223 
+Dickson,650,2,2,1,Ensuite,14,623 
+Nicholls,810,4,2,2,Air conditioning,11,1576 
+Gungahlin,660,5,2,2,Secure Parking,10,928 
+Evatt,630,3,1,2,Energy Eff. Rating: 2,12,311 
+Phillip,570,2,2,1,Air conditioning,14,453 
+Reid,510,1,1,1,Air conditioning,13,731 
+Curtin,635,2,2,2,nan,13,263 
+Braddon,680,1,1,1,Air conditioning,13,582 
+Belconnen,550,2,2,2,Built in wardrobes,10,612 
+Greenway,480,1,1,1,Furnished,12,175 
+Hackett,710,4,1,2,Close to transport,13,177 
+Hackett,820,4,2,1,nan,13,196 
+Denman Prospect,950,4,2,2,Secure Parking,7,699 
+Franklin,440,1,1,1,Air conditioning,10,928 
+Chisholm,650,3,1,1,Deck,11,610 
+Giralang,nan,4,2,1,Built in wardrobes,11,621 
+Page,nan,4,2,2,Energy Eff. Rating: 6.7,13,913 
+Lyons,350,1,1,1,nan,14,551 
+Pearce,nan,2,1,1,nan,13,512 
+Phillip,570,2,2,1,Air conditioning,14,453 
+Belconnen,nan,2,2,2,nan,12,885 
+Turner,nan,2,2,2,Dishwasher,13,528 
+Spence,575,3,1,1,Secure Parking,12,1027 
+Florey,620,3,1,4,nan,12,313 
+Taylor,420,1,1,0,nan,7,1256 
+Lyneham,550,1,1,1,Air conditioning,13,435 
+Reid,650,2,2,1,Pets Allowed,13,777 
+Franklin,580,2,2,2,nan,9,337 
+Ngunnawal,530,2,1,1,nan,11,608 
+Evatt,610,3,1,1,Built in wardrobes,12,440 
+Harrison,540,2,2,2,Pets Allowed,11,358 
+Forrest,620,2,2,2,Secure Parking,14,301 
+Griffith,750,2,2,2,nan,15,753 
+Campbell,500,1,1,1,Close to transport,13,670 
+Braddon,800,3,2,2,Secure Parking,13,259 
+Kingston,620,2,2,1,nan,15,802 
+Phillip,465,1,1,1,Air conditioning,16,494 
+Kingston,nan,2,2,2,Intercom,15,608 
+Garran,675,2,2,1,nan,13,228 
+Braddon,700,2,1,1,Built in wardrobes,13,518 
+Lawson,550,2,1,1,nan,12,978 
+Phillip,465,1,1,1,Air conditioning,14,424 
+Phillip,535,2,2,1,Air conditioning,14,453 
+Giralang,580,3,1,2,Air conditioning,9,569 
+Braddon,nan,3,1,1,Pets Allowed,13,310 
+Gungahlin,510,2,1,2,Dishwasher,11,580 
+Cook,700,3,2,1,Floorboards,10,449 
+Flynn,420,1,1,1,Built in wardrobes,9,538 
+Braddon,675,2,2,1,Secure Parking,13,667 
+Macquarie,570,2,1,1,Secure Parking,10,523 
+Ngunnawal,411,3,1,1,Secure Parking,9,672 
+Belconnen,450,1,1,1,Air conditioning,10,187 
+Reid,595,2,2,1,Swimming Pool,13,827 
+Mawson,400,2,1,1,Air conditioning,13,626 
+Bonner,875,5,2,2,Fully fenced,7,1245 
+Lawson,720,3,2,2,Secure Parking,12,965 
+Palmerston,585,2,1,1,Built in wardrobes,11,591 
+Turner,490,1,1,1,nan,13,302 
+Taylor,650,3,1,1,Remote Garage,10,829 
+Fyshwick,500,2,1,1,Pets Allowed,15,189 
+Griffith,620,2,2,2,nan,14,285 
+Braddon,530,1,1,1,Floorboards,13,765 
+O'Connor,nan,3,1,0,Pets Allowed,13,353 
+Turner,740,2,2,2,Secure Parking,13,682 
+Ngunnawal,520,2,2,1,Secure Parking,10,909 
+Garran,650,3,1,2,Secure Parking,13,721 
+Charnwood,550,3,1,1,Built in wardrobes,9,113 
+Monash,590,3,1,1,Air conditioning,12,845 
+Macquarie,nan,1,1,1,Dishwasher,12,227 
+Ngunnawal,670,3,2,2,Garden / Courtyard,11,427 
+Ngunnawal,500,2,1,1,Air conditioning,11,1075 
+Mawson,960,4,2,4,Pets Allowed,13,401 
+Belconnen,480,1,1,1,Pets Allowed,10,366 
+Griffith,nan,3,2,2,Ensuite,15,758 
+Braddon,640,2,2,1,Secure Parking,13,790 
+Red Hill,820,3,2,2,Ensuite,14,427 
+Weston,700,3,1,2,Secure Parking,14,1104 
+Franklin,460,1,1,1,Secure Parking,11,908 
+O'Malley,550,1,1,2,Air conditioning,13,808 
+Palmerston,nan,4,2,2,nan,12,174 
+Greenway,540,2,2,2,Air conditioning,12,1085 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Evatt,630,3,2,0,Energy Eff. Rating: 1,12,232 
+Mawson,899,3,3,2,nan,13,420 
+Griffith,550,2,1,1,Air conditioning,15,231 
+City,590,1,1,1,Secure Parking,13,1333 
+Casey,565,2,1,1,Secure Parking,10,1443 
+Yarralumla,460,1,1,1,nan,14,138 
+City,900,3,2,2,Ensuite,13,1310 
+Yarralumla,750,3,1,2,Air conditioning,14,169 
+Kingston,720,3,2,2,nan,15,692 
+Hackett,460,2,1,1,nan,13,211 
+City,550,1,1,1,Secure Parking,12,1844 
+Bruce,720,3,2,2,nan,12,765 
+Dickson,465,2,1,1,nan,14,328 
+Hughes,550,3,2,1,Energy Eff. Rating: 0.5,13,793 
+City,875,1,1,1,nan,13,1823 
+Belconnen,595,2,2,2,Air conditioning,12,1020 
+Dickson,695,1,1,1,Air conditioning,14,508 
+Yarralumla,nan,3,2,2,Secure Parking,14,516 
+Coombs,665,3,3,2,Air conditioning,9,208 
+Phillip,650,2,2,1,Air conditioning,14,458 
+Watson,520,2,2,2,Energy Eff. Rating: 5,14,1073 
+Lyneham,nan,3,2,1,nan,13,382 
+Kaleen,720,3,1,4,Secure Parking,12,379 
+Aranda,880,4,3,2,Air conditioning,10,391 
+Downer,690,3,1,1,Energy Eff. Rating: 2.5,13,1120 
+Belconnen,540,2,1,1,Built in wardrobes,10,735 
+Campbell,nan,1,1,1,Built in wardrobes,13,112 
+Gungahlin,620,2,1,1,Secure Parking,12,363 
+Gungahlin,640,3,2,1,Secure Parking,11,493 
+Braddon,550,1,1,1,Air conditioning,13,765 
+Lyneham,490,2,1,1,Energy Eff. Rating: 6,12,490 
+Griffith,590,2,2,1,nan,15,690 
+Gungahlin,590,2,2,1,nan,11,578 
+Wright,950,4,3,2,nan,7,1586 
+Lawson,600,2,3,2,nan,12,873 
+Phillip,650,1,1,1,Air conditioning,14,547 
+Phillip,590,2,2,1,Air conditioning,14,458 
+Campbell,530,1,1,1,Energy Eff. Rating: 6,13,630 
+Phillip,440,1,1,1,Intercom,14,547 
+Casey,570,2,1,1,nan,10,1505 
+Phillip,515,2,1,1,Intercom,14,547 
+Braddon,650,2,2,2,Secure Parking,13,701 
+Phillip,520,2,1,1,Energy Eff. Rating: 4.5,14,711 
+City,570,1,1,1,Balcony,13,1989 
+Gungahlin,770,4,3,2,Secure Parking,10,868 
+Campbell,550,1,1,1,nan,13,636 
+Holt,595,3,1,2,nan,10,402 
+Duffy,900,5,3,3,nan,10,956 
+Narrabundah,nan,2,1,1,Built in wardrobes,14,898 
+Narrabundah,515,3,1,1,nan,15,562 
+Holder,600,4,1,1,nan,11,689 
+Belconnen,460,1,1,1,Pets Allowed,10,366 
+Braddon,550,1,1,1,Energy Eff. Rating: 6,13,593 
+Mawson,1100,4,3,2,Pets Allowed,13,430 
+Phillip,580,2,1,1,Air conditioning,14,547 
+Griffith,500,2,1,1,nan,15,238 
+Taylor,495,1,1,1,Pets Allowed,10,236 
+Phillip,500,1,1,1,Energy Eff. Rating: 6,14,547 
+Campbell,950,3,2,2,Secure Parking,13,670 
+Moncrieff,650,3,2,2,nan,8,244 
+Dickson,700,2,2,1,Air conditioning,14,454 
+City,680,2,2,2,Pets Allowed,12,1844 
+Belconnen,nan,3,2,1,nan,10,730 
+Phillip,600,2,1,2,Air conditioning,14,547 
+Coombs,590,2,2,2,Secure Parking,10,408 
+Phillip,480,1,1,1,Secure Parking,14,547 
+Phillip,650,2,2,2,Intercom,14,547 
+Hawker,480,2,1,1,Built in wardrobes,11,310 
+Crace,730,4,2,2,Secure Parking,10,1201 
+Griffith,700,2,2,2,nan,15,520 
+Phillip,620,3,2,2,Built in wardrobes,13,596 
+Belconnen,630,2,2,2,Secure Parking,10,366 
+Gungahlin,625,3,2,1,Energy Eff. Rating: 5,11,117 
+Barton,600,1,1,1,Furnished,14,785 
+Garran,720,3,2,2,nan,13,404 
+Braddon,520,1,1,1,Energy Eff. Rating: 6,13,472 
+Kingston,690,2,1,1,Air conditioning,15,1099 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Ngunnawal,600,3,2,2,Pets Allowed,11,1008 
+Phillip,460,1,1,1,Air conditioning,14,399 
+Bonner,640,3,2,2,Energy Eff. Rating: 4.5,9,274 
+Conder,530,3,1,0,nan,7,297 
+Wright,470,1,1,1,nan,10,578 
+Scullin,575,3,1,1,Garden / Courtyard,13,926 
+Taylor,725,4,2,2,nan,10,360 
+Taylor,850,5,3,3,Dishwasher,10,1198 
+Gungahlin,470,1,1,1,Energy Eff. Rating: 6,11,452 
+Wanniassa,695,3,2,2,nan,13,411 
+Denman Prospect,620,2,2,2,Energy Eff. Rating: 6,7,782 
+Harrison,nan,2,1,1,nan,9,853 
+Phillip,450,1,1,1,nan,16,494 
+Barton,630,1,1,1,Air conditioning,14,181 
+Kingston,590,2,2,1,Air conditioning,15,521 
+Belconnen,470,1,1,1,Balcony,10,325 
+Ngunnawal,595,3,1,2,Air conditioning,10,906 
+Fisher,580,3,1,2,nan,13,860 
+City,nan,1,1,1,Energy Eff. Rating: 5,13,1098 
+Lyons,620,3,1,1,Close to transport,14,557 
+Greenway,600,2,2,2,Pets Allowed,13,989 
+Curtin,495,2,1,0,nan,13,427 
+O'Malley,1650,4,2,2,Energy Eff. Rating: 6,13,1043 
+Barton,670,2,2,1,Energy Eff. Rating: 6,14,806 
+Braddon,nan,2,2,1,Built in wardrobes,13,882 
+Phillip,560,2,2,1,Air conditioning,14,409 
+Braddon,nan,2,2,2,Ensuite(s),13,558 
+Belconnen,480,2,1,1,nan,10,660 
+Coombs,540,2,1,1,Pets Allowed,9,647 
+Coombs,790,4,3,2,Built in wardrobes,9,662 
+Banks,360,1,1,1,Air conditioning,6,1319 
+Bruce,830,4,2,2,Secure Parking,12,692 
+Kingston,750,3,2,2,nan,15,691 
+Ngunnawal,620,3,2,2,Secure Parking,11,1100 
+Lyneham,500,2,1,1,nan,13,196 
+Kambah,630,3,1,1,nan,11,1275 
+Bruce,445,1,1,1,Built in wardrobes,12,696 
+Wright,450,1,1,1,Secure Parking,9,190 
+City,540,1,1,1,Intercom,13,1692 
+Rivett,560,3,1,1,Bathtub,14,1202 
+Griffith,560,2,1,1,nan,15,595 
+Duffy,750,4,1,3,nan,10,422 
+Ainslie,720,3,1,2,Secure Parking,13,518 
+Mawson,640,3,2,1,nan,13,1014 
+Barton,750,2,2,2,Air conditioning,14,229 
+Barton,560,1,1,1,Intercom,14,806 
+Watson,nan,4,3,2,Air conditioning,13,1027 
+Braddon,565,1,1,1,Air conditioning,13,816 
+Holder,nan,4,1,1,Built in wardrobes,13,497 
+Reid,490,1,1,1,Energy Eff. Rating: 7.5,13,731 
+Lyons,450,2,1,1,nan,14,987 
+Forrest,565,1,1,1,nan,14,172 
+Harrison,650,3,1,1,nan,10,1265 
+Lyons,695,3,1,1,Secure Parking,14,1302 
+Torrens,950,4,2,2,nan,13,454 
+Amaroo,550,3,1,1,Air conditioning,11,851 
+Gungahlin,720,3,2,2,Built in wardrobes,10,1195 
+Bruce,575,2,2,2,Secure Parking,12,801 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Chifley,625,3,1,1,nan,13,1120 
+Franklin,510,2,1,1,nan,11,908 
+Gungahlin,500,2,1,0,nan,11,580 
+Mawson,nan,3,2,2,Air conditioning,13,283 
+City,800,2,2,2,Area Views,13,1711 
+Pearce,725,4,2,1,Floorboards,13,203 
+Dickson,625,2,1,1,Close to transport,14,675 
+Wright,530,2,1,1,Balcony,9,707 
+Palmerston,620,3,1,3,Secure Parking,11,307 
+Campbell,520,1,1,1,Close to transport,13,750 
+Greenway,540,1,1,1,Air conditioning,12,175 
+Gungahlin,490,1,1,1,Energy Eff. Rating: 5,10,585 
+Ngunnawal,570,3,1,1,Close to shops,10,1010 
+Phillip,710,3,2,2,Balcony,14,547 
+O'Connor,420,1,1,0,nan,13,1201 
+Deakin,580,3,1,0,nan,14,724 
+Torrens,700,3,2,1,Secure Parking,13,296 
+Moncrieff,670,3,2,2,Secure Parking,8,316 
+O'Connor,640,3,1,2,Courtyard,13,1113 
+Lawson,660,3,2,2,Secure Parking,12,1193 
+Hawker,500,3,2,1,Air conditioning,11,359 
+Waramanga,700,4,1,1,Built in wardrobes,13,483 
+Barton,485,1,1,1,nan,14,387 
+Downer,650,3,1,1,nan,15,798 
+Turner,460,1,1,1,Air conditioning,13,273 
+Throsby,725,3,2,2,Contemporary Complex,7,91 
+Turner,515,1,1,1,nan,13,528 
+Forrest,550,1,1,1,Energy Eff. Rating: 6,14,172 
+Phillip,490,1,1,1,Floorboards,14,547 
+Ainslie,nan,3,1,2,Heating,14,322 
+Bruce,820,4,2,2,nan,12,440 
+Mawson,650,3,1,2,Ensuite(s),13,957 
+Wright,660,3,2,2,Intercom,10,411 
+Yarralumla,1500,4,3,2,Balcony,14,606 
+Phillip,575,2,2,1,nan,14,399 
+Phillip,530,2,2,1,Secure Parking,14,547 
+Phillip,560,2,2,1,Air conditioning,14,399 
+Coombs,650,3,2,2,nan,10,457 
+Griffith,720,2,2,2,Air conditioning,15,234 
+Belconnen,800,2,2,2,Air conditioning,12,758 
+Gungahlin,770,4,3,2,Secure Parking,10,857 
+Franklin,670,3,2,1,nan,10,222 
+Greenway,600,2,2,2,nan,12,553 
+Amaroo,800,4,2,2,nan,11,1150 
+Wanniassa,500,2,1,1,nan,11,357 
+Calwell,nan,3,1,1,Air conditioning,10,357 
+City,1050,3,2,2,Energy Eff. Rating: 5,13,1235 
+Braddon,nan,2,2,2,Energy Eff. Rating: 5,13,604 
+Phillip,450,1,1,1,nan,14,547 
+Phillip,520,1,1,1,Gym,14,424 
+Belconnen,nan,2,2,2,Energy Eff. Rating: 5,12,758 
+Lyons,680,3,1,2,nan,14,691 
+Dickson,nan,3,2,2,Air conditioning,14,508 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+Hawker,430,2,1,1,nan,11,359 
+Griffith,720,2,2,2,nan,15,520 
+Throsby,800,4,2,2,Pets Allowed,8,1328 
+Phillip,450,1,1,1,Pets Allowed,14,547 
+Waramanga,650,3,1,1,Energy Eff. Rating: 1,13,415 
+Swinger Hill,570,2,1,1,nan,13,562 
+Swinger Hill,640,3,1,1,nan,14,818 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Phillip,580,2,1,1,nan,14,547 
+Flynn,nan,3,2,2,Built in wardrobes,10,908 
+Belconnen,550,2,1,2,Pets Allowed,10,386 
+Campbell,520,1,1,1,nan,13,684 
+Pearce,nan,4,3,2,Study,13,526 
+Coombs,920,4,2,2,nan,9,603 
+Franklin,635,3,3,1,Energy Eff. Rating: 7,10,230 
+Moncrieff,770,4,2,2,Air conditioning,8,466 
+Strathnairn,620,4,2,1,Energy Eff. Rating: 7.5,7,2515 
+Casey,690,3,2,2,Pets Allowed,10,1521 
+Wright,440,1,1,1,Pets Allowed,9,757 
+Lyneham,500,1,1,1,Gym,13,435 
+Bonython,520,2,1,1,Secure Parking,11,908 
+Kingston,520,2,1,1,Air conditioning,15,692 
+Braddon,620,1,1,1,Air conditioning,13,676 
+Dickson,595,2,2,1,Gym,14,557 
+City,650,2,2,1,Furnished,13,1463 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Kingston,950,3,2,2,Air conditioning,15,1104 
+Forrest,740,2,2,2,nan,14,453 
+Wright,980,4,2,2,Main bedroom with walk-in wardrobe and ensuite,10,639 
+Phillip,650,2,2,2,Air conditioning,14,909 
+Ainslie,525,1,1,1,Secure Parking,14,622 
+Barton,550,1,1,1,Air conditioning,14,785 
+Phillip,495,1,1,1,Air conditioning,14,547 
+Kingston,740,2,2,2,Air conditioning,15,681 
+Phillip,nan,1,1,1,Dishwasher,14,547 
+Wright,450,1,1,1,Pets Allowed,9,757 
+Hackett,420,1,1,0,nan,13,402 
+Kambah,352,2,1,1,Secure Parking,15,384 
+O'Connor,640,2,2,1,Air conditioning,13,339 
+City,550,1,1,1,Area Views,13,1333 
+Harrison,700,4,2,2,Close to transport,7,748 
+City,650,2,1,1,nan,13,1137 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Belconnen,520,2,1,3,Ensuite(s),12,784 
+Gungahlin,525,2,1,1,Secure Parking,12,409 
+Griffith,750,2,2,2,Air conditioning,15,234 
+Phillip,395,1,1,0,Air conditioning,14,424 
+Gungahlin,750,4,2,1,nan,10,1315 
+Phillip,550,2,1,1,Secure Parking,14,547 
+Kingston,560,2,2,1,Air conditioning,15,489 
+Yarralumla,nan,4,2,2,Ensuite,14,652 
+Garran,1570,4,2,4,Energy Eff. Rating: 6,13,440 
+Strathnairn,550,2,1,1,Energy Eff. Rating: 6,8,2265 
+Macquarie,675,3,2,2,nan,11,236 
+Gungahlin,500,2,1,1,Energy Eff. Rating: 6,11,453 
+Throsby,775,4,2,2,Ducted heating and cooling,7,138 
+Latham,690,3,2,2,Floorboards,10,899 
+Gordon,nan,3,2,1,Bath,8,662 
+Dickson,470,1,1,1,Pets Allowed,14,750 
+Franklin,440,1,1,1,Pets Allowed,10,919 
+Amaroo,510,2,2,2,Pets Allowed,11,381 
+Belconnen,750,3,2,2,Air conditioning,10,160 
+Gungahlin,450,1,1,1,Floorboards,10,718 
+Dickson,nan,2,1,1,Built in wardrobes,14,623 
+Weston,610,3,2,1,nan,14,412 
+Barton,560,1,1,1,nan,14,686 
+Phillip,540,2,2,1,Air conditioning,14,424 
+Phillip,nan,1,1,1,Dishwasher,14,874 
+O'Connor,550,1,1,1,Furnished,13,193 
+Bruce,820,4,2,2,Air conditioning,12,467 
+Campbell,835,3,2,1,Ensuite,13,171 
+Coombs,450,1,1,1,Intercom,10,408 
+Phillip,620,2,2,1,Air conditioning,14,453 
+Franklin,420,1,1,1,Secure Parking,11,641 
+Phillip,575,2,2,1,nan,14,409 
+Belconnen,570,3,1,2,Built in wardrobes,10,723 
+Holt,680,3,2,2,Air conditioning,10,892 
+Braddon,720,2,2,2,Air conditioning,13,518 
+Turner,nan,2,2,2,Pets Allowed,13,222 
+Bruce,450,1,1,1,nan,12,947 
+Forde,530,2,1,1,Fully fenced,9,858 
+Narrabundah,640,3,2,1,Secure Parking,14,1041 
+Campbell,750,3,1,2,Air conditioning,13,568 
+Phillip,490,1,1,1,Air conditioning,14,399 
+Crace,nan,5,3,2,Kitchen with gourmet sized gas cooking and large walk-in pantry,11,716 
+Campbell,2650,4,4,6,Secure Parking,13,544 
+Phillip,820,3,2,2,Energy Eff. Rating: 6,14,389 
+Lawson,980,5,3,2,Dishwasher,12,1184 
+Phillip,510,1,1,1,Gym,14,424 
+Braddon,690,2,1,1,Built in wardrobes,13,518 
+Braddon,500,2,1,1,nan,13,290 
+Phillip,470,1,1,1,nan,14,405 
+Gungahlin,600,2,2,2,Energy Eff. Rating: 6,11,548 
+Barton,530,1,1,1,nan,14,806 
+Coombs,1280,5,3,4,nan,9,982 
+Harrison,450,1,1,1,nan,9,113 
+Nicholls,360,1,1,0,Heating,12,322 
+Curtin,470,2,1,1,Air conditioning,13,405 
+Turner,600,1,1,1,Furnished,13,1013 
+Griffith,520,2,1,1,nan,15,238 
+Harrison,440,1,1,1,Pets Allowed,11,358 
+Phillip,550,2,1,1,Air conditioning,14,850 
+Turner,nan,3,2,2,Built in wardrobes,13,276 
+Gungahlin,800,4,2,2,nan,10,711 
+Harrison,520,2,2,2,nan,9,113 
+Kambah,nan,4,3,2,nan,10,813 
+Reid,530,2,1,1,nan,13,774 
+Braddon,750,2,2,2,Air conditioning,13,604 
+Dickson,550,1,1,1,Energy Eff. Rating: 0.1,14,629 
+Ngunnawal,550,3,1,1,Heating,9,733 
+Curtin,850,4,3,3,Multiple living areas,13,1016 
+Wright,nan,5,3,2,Secure Parking,7,1448 
+Palmerston,620,3,2,1,Secure Parking,11,526 
+Phillip,430,1,1,0,Air conditioning,14,453 
+Belconnen,530,2,2,1,Pets Allowed,10,273 
+Phillip,440,1,1,1,Air conditioning,14,424 
+Griffith,nan,1,1,1,Built in wardrobes,15,201 
+Kambah,590,3,1,1,Close to transport,14,344 
+Braddon,770,3,2,2,nan,12,181 
+Evatt,570,3,1,1,nan,12,534 
+Phillip,460,1,1,1,nan,14,547 
+Phillip,400,1,1,0,nan,14,453 
+Phillip,560,2,2,2,nan,14,547 
+Phillip,580,2,2,1,nan,14,399 
+Denman Prospect,460,1,1,1,Pets Allowed,7,529 
+Harrison,750,4,2,2,nan,10,1309 
+Red Hill,nan,2,2,2,nan,14,232 
+Lyneham,455,1,1,1,Secure Parking,13,508 
+Dickson,600,2,2,2,nan,14,451 
+Braddon,525,2,1,2,nan,13,356 
+Isaacs,1500,5,4,5,Study,13,1319 
+Lyneham,1100,5,3,2,Dishwasher,12,1311 
+Lyneham,630,1,1,1,Air conditioning,13,435 
+Palmerston,550,2,1,1,Secure Parking,11,453 
+Braddon,530,1,1,1,Balcony / Deck,13,814 
+Garran,590,3,1,1,nan,13,360 
+City,700,2,2,1,Air conditioning,13,1333 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Campbell,540,1,1,1,Air conditioning,13,488 
+Garran,nan,5,2,2,Built in wardrobes,13,926 
+Gungahlin,480,1,1,1,Pets Allowed,11,678 
+Reid,950,3,2,1,Built in wardrobes,13,650 
+Forrest,580,1,1,1,Air conditioning,14,412 
+Dickson,475,1,1,1,nan,14,708 
+Belconnen,600,2,2,2,Pets Allowed,10,347 
+Braddon,590,1,1,1,Energy Eff. Rating: 5,13,882 
+Phillip,480,1,1,1,Built in wardrobes,14,409 
+Braddon,590,2,1,1,Area Views,13,593 
+Moncrieff,520,2,1,0,Above ground pool,9,158 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Coombs,820,4,3,2,Secure Parking,9,643 
+Phillip,550,2,2,2,Pets Allowed,14,453 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Kingston,640,2,2,2,Intercom,15,681 
+Coombs,820,4,3,2,Secure Parking,9,643 
+Denman Prospect,900,4,2,3,Ensuite(s),7,724 
+Red Hill,nan,4,2,2,nan,14,354 
+Gungahlin,405,1,1,0,Pets Allowed,11,610 
+Barton,nan,1,1,1,Dishwasher,14,864 
+Harrison,440,1,1,1,Pets Allowed,11,358 
+Turner,630,2,2,2,Pets Allowed,13,266 
+Ngunnawal,600,3,2,1,Ensuite,10,586 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+nan,650,3,2,2,Secure Parking,9,381 
+Duffy,630,3,1,1,nan,11,826 
+Gungahlin,515,2,1,1,Pets Allowed,11,678 
+Gungahlin,530,2,2,1,Pets Allowed,11,678 
+Reid,550,1,1,1,nan,13,775 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Ngunnawal,795,4,2,2,Built in wardrobes,13,485 
+Phillip,430,1,1,0,Air conditioning,14,424 
+Phillip,530,2,1,1,Energy Eff. Rating: 3.5,14,896 
+Reid,nan,2,1,1,Intercom,13,790 
+Holt,650,3,2,2,Secure Parking,10,816 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Parkes,880,2,2,2,Pets Allowed,12,867 
+Campbell,690,2,2,2,Secure Parking,13,628 
+Phillip,530,2,2,1,Pets Allowed,14,399 
+Phillip,490,1,1,1,Pets Allowed,14,457 
+Phillip,530,2,2,1,Pets Allowed,14,424 
+Phillip,550,2,2,2,Pets Allowed,14,424 
+Phillip,430,1,1,1,Pets Allowed,14,459 
+Phillip,430,1,1,1,Pets Allowed,14,457 
+Phillip,430,1,1,1,Pets Allowed,14,457 
+Phillip,530,2,2,1,Pets Allowed,14,453 
+Lyneham,750,2,2,1,Air conditioning,13,575 
+Phillip,450,1,1,1,Gym,14,399 
+Campbell,550,2,1,1,nan,13,325 
+Mawson,670,3,2,2,nan,13,926 
+Phillip,500,2,2,1,Air conditioning,14,424 
+Braddon,600,2,2,1,Energy Eff. Rating: 0.1,13,882 
+Taylor,600,2,2,2,nan,10,155 
+Forrest,565,1,1,2,Dishwasher,14,461 
+Griffith,560,2,2,1,nan,15,219 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Hackett,400,2,1,1,nan,13,251 
+Belconnen,470,1,1,1,Pets Allowed,10,255 
+Greenway,620,2,2,2,Air conditioning,12,1085 
+Kingston,725,2,2,2,nan,15,1142 
+Red Hill,nan,3,2,2,nan,14,224 
+O'Connor,700,3,1,2,Pets Allowed,13,1143 
+Griffith,550,2,2,1,nan,15,595 
+Forrest,620,2,1,1,nan,14,221 
+Phillip,470,1,1,1,nan,14,399 
+Phillip,815,3,2,2,nan,14,386 
+Phillip,670,2,2,1,Air conditioning,14,399 
+Campbell,nan,3,3,2,nan,13,545 
+Reid,540,1,1,1,Secure Parking,13,775 
+Phillip,590,2,2,2,Air conditioning,14,399 
+Ainslie,nan,1,1,0,Built in wardrobes,12,600 
+Gungahlin,520,1,1,1,nan,11,678 
+City,530,1,1,1,Secure Parking,13,1711 
+Denman Prospect,730,3,2,2,Secure Parking,7,754 
+Barton,550,2,1,1,Air conditioning,14,356 
+Coombs,475,1,1,0,Furnished,9,648 
+Amaroo,440,1,1,1,Pets Allowed,11,381 
+Flynn,850,4,2,4,Dishwasher,10,1063 
+Phillip,590,2,2,2,nan,14,409 
+Kingston,740,2,2,2,Air conditioning,15,579 
+Gungahlin,220,5,3,2,Secure Parking,10,430 
+Kingston,800,3,2,2,nan,15,691 
+Phillip,530,2,2,1,nan,14,399 
+Yarralumla,359,2,1,2,nan,14,385 
+Taylor,1100,4,3,2,nan,10,862 
+Deakin,nan,5,3,2,Air conditioning,14,751 
+Turner,470,1,1,1,nan,13,1172 
+Yarralumla,640,2,1,2,nan,14,346 
+Deakin,2400,4,3,3,Secure Parking,15,282 
+Phillip,550,2,1,1,Energy Eff. Rating: 6,14,547 
+Gungahlin,550,2,1,0,Air conditioning,10,622 
+Phillip,480,1,1,1,Secure Parking,14,458 
+Narrabundah,nan,4,2,1,Air conditioning,14,594 
+Phillip,510,1,1,1,Air conditioning,14,399 
+Yarralumla,635,2,1,1,nan,14,324 
+Amaroo,420,1,1,1,Pets Allowed,11,381 
+Braddon,700,2,2,1,Air conditioning,13,577 
+Narrabundah,1395,5,2,2,Air conditioning,15,165 
+Phillip,470,1,1,1,Air conditioning,14,399 
+Wright,440,1,1,1,Pets Allowed,9,757 
+Lawson,720,3,2,2,Secure Parking,12,1090 
+Red Hill,nan,4,3,2,Secure Parking,14,447 
+Narrabundah,nan,2,1,2,Built in wardrobes,15,421 
+Phillip,450,1,1,1,nan,14,399 
+Taylor,410,1,1,0,nan,10,265 
+Dickson,450,2,1,1,nan,14,252 
+Kingston,600,2,1,1,Dishwasher,15,823 
+Turner,650,2,2,1,Air conditioning,13,515 
+Lyneham,675,3,1,2,Fully fenced,13,404 
+Campbell,510,1,1,0,Furnished,13,229 
+Taylor,470,2,1,0,nan,8,594 
+Phillip,665,2,2,2,nan,14,909 
+Hackett,420,2,1,1,Bath,13,251 
+City,650,2,1,1,Balcony,13,1121 
+Phillip,530,2,2,1,Air conditioning,14,399 
+Lyons,375,0,1,1,Balcony,14,981 
+Amaroo,600,3,2,1,Secure Parking,11,854 
+Belconnen,550,2,1,1,Balcony,10,325 
+Phillip,890,3,2,2,nan,14,458 
+Turner,490,1,1,1,Pets Allowed,13,266 
+Denman Prospect,nan,4,3,2,Balcony,7,740 
+Kaleen,600,4,2,2,Built in wardrobes,11,617 
+Red Hill,nan,7,6,5,Air conditioning,14,723 
+Phillip,nan,1,1,1,Gym,14,399 
+Phillip,400,1,1,0,Pets Allowed,14,409 
+Campbell,760,4,1,2,Secure Parking,13,502 
+Strathnairn,520,2,1,0,Air conditioning,8,1928 
+Phillip,610,2,2,1,Air conditioning,14,453 
+Campbell,565,1,1,1,Dishwasher,13,604 
+Ainslie,650,3,1,2,nan,13,539 
+Turner,530,1,1,1,Intercom,13,329 
+Gungahlin,545,1,1,1,Pets Allowed,11,420 
+Wanniassa,720,4,2,2,Dishwasher,12,299 
+Gungahlin,630,3,2,1,Pets Allowed,11,420 
+Bruce,600,2,2,2,Air conditioning,12,1055 
+Griffith,570,2,1,1,Balcony,15,595 
+Bruce,740,3,2,2,Courtyard,12,686 
+O'Connor,505,1,1,1,Air conditioning,13,257 
+Franklin,650,3,1,1,Energy Eff. Rating: 5,10,460 
+Braddon,nan,2,1,0,nan,12,241 
+Gungahlin,530,2,1,1,Pets Allowed,11,678 
+Gungahlin,480,1,1,1,Pets Allowed,11,420 
+Gungahlin,550,2,2,1,Pets Allowed,11,420 
+Gungahlin,570,2,1,2,Pets Allowed,11,420 
+Griffith,570,2,2,1,nan,15,219 
+Phillip,395,1,1,0,Air conditioning,14,399 
+Phillip,650,2,2,1,Air conditioning,14,551 
+Wanniassa,600,3,1,2,Secure Parking,13,430 
+Palmerston,649,3,2,2,Pets Allowed,11,475 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Chifley,575,3,1,1,nan,13,1033 
+Phillip,570,2,2,1,Air conditioning,14,424 
+City,nan,3,3,2,Air conditioning,13,1333 
+Franklin,220,7,4,2,Secure Parking,10,411 
+Phillip,480,1,1,1,Gym,14,424 
+Watson,615,3,0,1,Secure Parking,11,1893 
+Higgins,780,6,2,2,nan,10,127 
+Nicholls,750,4,2,2,nan,12,1079 
+Braddon,720,2,2,2,nan,13,604 
+Strathnairn,700,3,2,2,Secure Parking,8,2475 
+Whitlam,725,3,2,2,Secure Parking,4,3188 
+Amaroo,500,2,1,2,Pets Allowed,11,381 
+Lyneham,680,2,2,2,Air conditioning,13,307 
+Phillip,450,1,1,1,Air conditioning,14,424 
+Dickson,620,2,2,0,Air conditioning,14,629 
+Belconnen,620,2,2,1,Balcony,10,302 
+Amaroo,640,3,2,2,Air conditioning,11,453 
+Narrabundah,650,4,1,3,Secure Parking,15,283 
+Turner,490,1,1,1,Pets Allowed,13,266 
+Coombs,540,2,1,2,nan,9,648 
+Barton,825,2,2,2,Secure Parking,14,787 
+Whitlam,1050,4,3,2,Built in wardrobes,4,3193 
+O'Connor,480,1,1,0,Courtyard,13,695 
+Kaleen,780,3,2,2,Remote Garage,11,632 
+Bruce,540,2,1,1,Balcony,12,986 
+Kingston,640,2,2,2,Balcony,15,959 
+O'Malley,1500,5,3,3,nan,13,745 
+Lyneham,300,1,1,0,Energy Eff. Rating: 1,12,687 
+Isaacs,485,1,1,0,Study,13,1462 
+Greenway,480,2,1,1,Pets Allowed,13,657 
+Greenway,540,2,2,1,Pets Allowed,13,657 
+Greenway,540,2,2,1,Pets Allowed,13,657 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Greenway,480,2,1,1,Pets Allowed,13,657 
+Downer,520,3,1,0,nan,16,564 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Turner,600,3,1,0,nan,13,712 
+Greenway,490,2,1,1,Pets Allowed,13,657 
+Nicholls,740,4,2,2,nan,12,346 
+Gungahlin,960,5,2,3,Air conditioning,10,1263 
+Dickson,750,3,2,1,Air conditioning,14,343 
+Forrest,620,2,3,2,Air conditioning,14,330 
+Lyons,575,3,1,1,Gas Heating,14,683 
+Braddon,720,2,2,1,Air conditioning,13,518 
+nan,700,3,2,1,Ensuite,12,485 
+Dickson,680,2,2,1,Air conditioning,13,315 
+Taylor,680,4,2,2,Secure Parking,10,332 
+Lyneham,850,3,2,2,Air conditioning,13,270 
+Gungahlin,760,4,3,2,Ensuite,10,992 
+Belconnen,350,1,2,0,Ensuite,10,649 
+Phillip,485,1,1,1,Energy Eff. Rating: 6,14,728 
+Ngunnawal,720,4,2,2,Secure Parking,13,552 
+Belconnen,640,2,2,1,Air conditioning,10,247 
+Griffith,595,1,1,1,Air conditioning,15,260 
+Wright,nan,4,3,2,Secure Parking,7,1753 
+nan,730,4,2,3,nan,15,54 
+Griffith,600,2,1,2,Air conditioning,14,254 
+Deakin,nan,4,2,2,nan,14,477 
+O'Connor,nan,3,2,2,Ensuite,13,402 
+Gungahlin,720,4,3,2,Ensuite,10,1220 
+nan,750,3,2,2,Secure Parking,11,120 
+Belconnen,680,2,2,1,Energy Eff. Rating: 5,10,331 
+Hackett,650,3,1,1,nan,13,667 
+Harrison,700,4,2,2,Air conditioning,7,594 
+Bonner,680,4,3,2,Ensuite,7,1378 
+Turner,460,1,1,1,nan,13,1105 
+nan,750,3,2,2,Secure Parking,14,68 
+Calwell,520,3,1,1,nan,10,576 
+Downer,420,1,1,1,nan,14,1193 
+Phillip,480,1,1,1,nan,14,769 
+Reid,595,2,1,1,Gas,13,772 
+Red Hill,nan,5,3,4,Pets Allowed,14,180 
+Denman Prospect,565,2,1,2,Secure Parking,7,420 
+Page,580,3,1,1,Secure Parking,11,622 
+Casey,nan,4,2,2,Air conditioning,10,1253 
+Taylor,450,3,2,2,Balcony,7,979 
+Franklin,800,4,2,2,Secure Parking,10,371 
+Denman Prospect,700,2,2,2,Air conditioning,7,855 
+Latham,665,3,2,1,Secure Parking,10,236 
+Phillip,760,3,2,2,Air conditioning,14,909 
+nan,250,1,1,1,Internal Laundry,10,432 
+Franklin,220,7,4,2,Secure Parking,10,411 
+Franklin,220,7,4,2,Secure Parking,10,411 
+Gungahlin,220,5,3,2,Secure Parking,10,430 
+nan,250,1,1,1,Internal Laundry,10,432 
+nan,250,1,1,1,Internal Laundry,10,432 
+Lyneham,300,1,1,0,Energy Eff. Rating: 1,12,687 
+Belconnen,350,1,2,0,Ensuite,10,649 
+City,349,1,1,0,Internal Laundry,13,1162 
+Lyneham,300,1,1,0,Energy Eff. Rating: 1,12,687 
+Kambah,350,1,1,1,Air conditioning,13,1197 
+Taylor,350,1,1,0,nan,10,674 
+Lyons,350,1,1,1,nan,14,551 
+Hughes,350,1,1,0,nan,13,301 
+Phillip,nan,1,1,1,Built in wardrobes,14,564 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Lyneham,355,1,1,0,nan,13,443 
+Banks,360,1,1,1,Air conditioning,6,1319 
+Pearce,nan,2,1,1,nan,13,512 
+Fraser,390,1,1,0,Close to transport,8,546 
+Lyons,350,1,1,1,nan,14,551 
+Nicholls,360,1,1,0,Heating,12,322 
+Kambah,352,2,1,1,Secure Parking,15,384 
+Phillip,nan,1,1,1,Built in wardrobes,14,564 
+Phillip,400,1,1,0,Air conditioning,14,399 
+Page,390,1,1,1,Built in wardrobes,13,593 
+Hughes,350,1,1,0,nan,13,301 
+Mawson,400,2,1,1,Air conditioning,13,626 
+Campbell,390,1,1,1,nan,13,304 
+Red Hill,390,1,1,1,nan,14,416 
+Page,365,1,1,1,Close to transport,12,419 
+Mawson,360,1,1,1,nan,13,626 
+Phillip,400,1,1,0,nan,16,508 
+Lyneham,400,1,1,1,nan,13,306 
+Phillip,395,1,1,0,Air conditioning,14,424 
+City,349,1,1,0,Internal Laundry,13,1162 
+Lyons,375,0,1,1,Balcony,14,981 
+Lyneham,300,1,1,0,Energy Eff. Rating: 1,12,687 
+Belconnen,350,1,2,0,Ensuite,10,649 
+Yarralumla,359,2,1,2,nan,14,385 
+Phillip,395,1,1,0,Air conditioning,14,399 
+Phillip,400,1,1,0,Pets Allowed,14,409 
+Hackett,400,2,1,1,nan,13,251 
+Phillip,400,1,1,0,nan,14,453 
+Taylor,350,1,1,0,nan,10,674 
+Kambah,350,1,1,1,Air conditioning,13,1197 
+Phillip,440,1,1,1,Air conditioning,16,508 
+Wright,440,1,1,1,Dishwasher,9,264 
+Bruce,440,1,1,1,Dishwasher,12,943 
+Bruce,450,1,1,1,Built in wardrobes,12,943 
+Phillip,450,1,1,1,nan,14,569 
+Lyneham,400,1,1,1,nan,13,306 
+Phillip,450,1,1,1,Energy Eff. Rating: 6,14,547 
+Phillip,440,1,1,1,Air conditioning,14,424 
+Phillip,400,1,1,0,Air conditioning,14,399 
+Wright,420,1,1,1,Pets Allowed,9,757 
+Phillip,450,1,1,1,Double glazed windows,14,399 
+Phillip,450,1,1,0,Air conditioning,16,494 
+Gungahlin,440,1,1,1,Close to transport,10,674 
+Phillip,450,1,1,1,nan,14,409 
+Gungahlin,430,1,1,1,Air conditioning,10,857 
+Phillip,450,1,1,1,Air conditioning,14,399 
+Gungahlin,435,1,1,1,nan,10,697 
+Gungahlin,450,1,1,1,nan,11,580 
+Phillip,400,1,1,0,nan,16,508 
+Phillip,450,1,1,1,nan,14,424 
+Flynn,420,1,1,1,Built in wardrobes,9,538 
+Ngunnawal,411,3,1,1,Secure Parking,9,672 
+Phillip,450,1,1,1,nan,16,494 
+Wright,450,1,1,1,Secure Parking,9,190 
+Mawson,400,2,1,1,Air conditioning,13,626 
+Campbell,nan,1,1,1,Built in wardrobes,13,112 
+Taylor,420,1,1,0,nan,7,1256 
+Phillip,440,1,1,1,Intercom,14,547 
+Bruce,445,1,1,1,Built in wardrobes,12,696 
+Belconnen,440,1,1,0,Built in wardrobes,10,223 
+Franklin,440,1,1,1,Air conditioning,10,928 
+Belconnen,450,1,1,1,Air conditioning,10,187 
+Phillip,420,1,1,1,Air conditioning,14,547 
+Belconnen,440,1,1,1,nan,10,635 
+Turner,410,1,1,1,Close to transport,13,1112 
+Harrison,450,1,1,1,nan,9,113 
+Amaroo,420,1,1,1,Pets Allowed,11,381 
+Phillip,nan,1,1,1,Built in wardrobes,14,453 
+Pearce,nan,2,1,1,nan,13,512 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Phillip,400,1,1,0,nan,14,453 
+Franklin,420,1,1,1,Secure Parking,11,641 
+Phillip,430,1,1,0,Air conditioning,14,453 
+Coombs,450,1,1,1,Intercom,10,408 
+Gungahlin,450,1,1,1,Floorboards,10,718 
+Harrison,440,1,1,1,Pets Allowed,11,358 
+Bruce,450,1,1,1,nan,12,947 
+Phillip,440,1,1,1,Air conditioning,14,424 
+Franklin,440,1,1,1,Pets Allowed,10,919 
+Phillip,nan,1,1,1,Dishwasher,14,874 
+Phillip,nan,1,1,1,Dishwasher,14,547 
+Hackett,420,1,1,0,nan,13,402 
+Wright,440,1,1,1,Pets Allowed,9,757 
+Phillip,450,1,1,1,nan,14,547 
+Hawker,430,2,1,1,nan,11,359 
+Phillip,450,1,1,1,Pets Allowed,14,547 
+O'Connor,420,1,1,0,nan,13,1201 
+Lyons,450,2,1,1,nan,14,987 
+Harrison,450,1,1,1,nan,9,113 
+Wright,450,1,1,1,Pets Allowed,9,757 
+Taylor,410,1,1,0,nan,10,265 
+Dickson,450,2,1,1,nan,14,252 
+Hackett,420,2,1,1,Bath,13,251 
+Phillip,450,1,1,1,Air conditioning,14,424 
+Amaroo,440,1,1,1,Pets Allowed,11,381 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Phillip,430,1,1,1,Pets Allowed,14,457 
+Hackett,400,2,1,1,nan,13,251 
+Phillip,450,1,1,1,nan,14,399 
+Phillip,430,1,1,1,Pets Allowed,14,457 
+Phillip,430,1,1,1,Pets Allowed,14,459 
+Phillip,450,1,1,1,Gym,14,399 
+Phillip,430,1,1,0,Air conditioning,14,424 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Harrison,440,1,1,1,Pets Allowed,11,358 
+Gungahlin,405,1,1,0,Pets Allowed,11,610 
+Wright,440,1,1,1,Pets Allowed,9,757 
+Amaroo,420,1,1,1,Pets Allowed,11,381 
+Phillip,400,1,1,0,Pets Allowed,14,409 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Watson,450,1,1,0,nan,14,119 
+Downer,420,1,1,1,nan,14,1193 
+Greenway,420,1,1,1,nan,12,249 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Taylor,450,3,2,2,Balcony,7,979 
+Narrabundah,460,1,1,1,Alarm System,14,459 
+Kingston,480,1,1,1,Intercom,15,901 
+Bruce,450,1,1,1,Built in wardrobes,12,943 
+Phillip,450,1,1,1,nan,14,409 
+Pearce,500,2,1,1,nan,13,512 
+Kambah,486,3,1,1,nan,14,682 
+Phillip,460,1,1,1,Secure Parking,14,399 
+Greenway,465,1,1,1,nan,13,1030 
+Phillip,450,1,1,1,nan,14,424 
+Belconnen,480,1,1,1,Air conditioning,10,179 
+Bruce,475,0,1,1,Air conditioning,12,1016 
+Belconnen,480,1,1,1,Pets Allowed,10,228 
+Belconnen,480,1,1,1,Built in wardrobes,10,198 
+Bruce,480,1,1,1,Secure Parking,12,996 
+Turner,nan,1,1,1,Energy Eff. Rating: 5,13,472 
+Phillip,450,1,1,0,Air conditioning,16,494 
+Wright,470,1,1,1,nan,10,646 
+Pearce,470,2,1,1,nan,13,448 
+Phillip,495,1,1,1,nan,14,871 
+Kingston,500,1,1,1,nan,15,355 
+Scullin,500,2,1,1,Built in wardrobes,13,474 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Denman Prospect,480,1,1,1,Pets Allowed,7,737 
+Reid,500,1,2,1,nan,13,735 
+Braddon,500,1,1,1,Air conditioning,13,676 
+Holt,490,2,1,1,Dishwasher,10,812 
+Watson,490,2,1,1,Energy Eff. Rating: 7,11,1826 
+Phillip,500,1,1,1,nan,14,384 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+Phillip,450,1,1,1,nan,14,569 
+Gungahlin,460,1,1,1,Gym,12,409 
+Belconnen,480,1,1,1,nan,10,325 
+Phillip,450,1,1,1,Air conditioning,14,399 
+Franklin,nan,1,1,1,Built in wardrobes,11,908 
+Belconnen,470,2,1,1,nan,10,660 
+Denman Prospect,460,1,1,1,Air conditioning,7,573 
+Phillip,475,1,1,1,Furnished,14,720 
+Gungahlin,450,1,1,1,nan,11,580 
+Phillip,465,1,1,1,Air conditioning,14,424 
+Macgregor,480,2,1,3,Secure Parking,10,696 
+Lyneham,500,1,1,0,Air conditioning,13,508 
+Harrison,450,1,1,1,nan,9,113 
+Phillip,450,1,1,1,Energy Eff. Rating: 6,14,547 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Weston,500,2,2,2,Secure Parking,14,398 
+Griffith,480,1,1,1,nan,15,595 
+Belconnen,490,1,1,1,Balcony,10,273 
+Kingston,500,1,1,1,nan,15,556 
+Phillip,500,1,1,1,nan,14,720 
+Wanniassa,470,2,1,1,Balcony,11,397 
+Belconnen,500,1,1,1,Pets Allowed,10,252 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+Phillip,470,1,1,1,Energy Eff. Rating: 6,14,728 
+Bruce,480,1,1,1,Air conditioning,12,879 
+Phillip,500,1,1,1,Secure Parking,14,813 
+Phillip,450,1,1,1,Double glazed windows,14,399 
+Turner,500,1,1,1,Pets Allowed,13,266 
+Coombs,465,1,1,1,nan,9,439 
+Taylor,500,1,1,0,nan,9,564 
+Braddon,480,1,1,0,Pets Allowed,13,644 
+Campbell,nan,1,1,1,Built in wardrobes,13,112 
+Lyneham,490,2,1,1,Energy Eff. Rating: 6,12,490 
+Belconnen,450,1,1,1,Air conditioning,10,187 
+Ngunnawal,500,2,1,1,Air conditioning,11,1075 
+Dickson,465,2,1,1,nan,14,328 
+Belconnen,480,1,1,1,Pets Allowed,10,366 
+Turner,490,1,1,1,nan,13,302 
+Hackett,460,2,1,1,nan,13,211 
+Campbell,500,1,1,1,Close to transport,13,670 
+Fyshwick,500,2,1,1,Pets Allowed,15,189 
+Phillip,465,1,1,1,Air conditioning,16,494 
+Phillip,465,1,1,1,Air conditioning,14,424 
+Red Hill,480,1,1,1,Air conditioning,14,189 
+Franklin,460,1,1,1,Secure Parking,11,908 
+Macquarie,nan,1,1,1,Dishwasher,12,227 
+Belconnen,480,2,1,1,Floorboards,10,689 
+O'Connor,490,1,1,1,Built in wardrobes,13,193 
+Greenway,480,1,1,1,Furnished,12,175 
+Phillip,460,1,1,1,Air conditioning,14,399 
+Yarralumla,460,1,1,1,nan,14,138 
+Lyons,450,2,1,1,nan,14,987 
+Phillip,480,1,1,1,Secure Parking,14,547 
+Phillip,500,1,1,1,Energy Eff. Rating: 6,14,547 
+Phillip,460,1,1,1,Air conditioning,14,399 
+Reid,490,1,1,1,Energy Eff. Rating: 7.5,13,731 
+Hawker,480,2,1,1,Built in wardrobes,11,310 
+Belconnen,460,1,1,1,Pets Allowed,10,366 
+Taylor,495,1,1,1,Pets Allowed,10,236 
+Griffith,500,2,1,1,nan,15,238 
+Gungahlin,500,2,1,0,nan,11,580 
+Turner,460,1,1,1,Air conditioning,13,273 
+Wright,470,1,1,1,nan,10,578 
+Belconnen,480,2,1,1,nan,10,660 
+Gungahlin,470,1,1,1,Energy Eff. Rating: 6,11,452 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Wright,450,1,1,1,Secure Parking,9,190 
+Curtin,495,2,1,0,nan,13,427 
+Phillip,450,1,1,1,nan,16,494 
+Belconnen,470,1,1,1,Balcony,10,325 
+Lyneham,500,2,1,1,nan,13,196 
+Gungahlin,500,2,1,1,Energy Eff. Rating: 6,11,453 
+Phillip,495,1,1,1,Air conditioning,14,547 
+Gungahlin,450,1,1,1,Floorboards,10,718 
+Bruce,450,1,1,1,nan,12,947 
+Braddon,500,2,1,1,nan,13,290 
+Wright,450,1,1,1,Pets Allowed,9,757 
+Coombs,450,1,1,1,Intercom,10,408 
+Dickson,470,1,1,1,Pets Allowed,14,750 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Phillip,450,1,1,1,nan,14,547 
+Braddon,460,1,1,0,Pets Allowed,13,644 
+Phillip,490,1,1,1,Floorboards,14,547 
+Gungahlin,490,1,1,1,Energy Eff. Rating: 5,10,585 
+Barton,485,1,1,1,nan,14,387 
+Wanniassa,500,2,1,1,nan,11,357 
+Phillip,490,1,1,1,Air conditioning,14,399 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Lyneham,500,1,1,1,Gym,13,435 
+Phillip,450,1,1,1,Pets Allowed,14,547 
+Hawker,500,3,2,1,Air conditioning,11,359 
+Belconnen,470,1,1,1,Pets Allowed,10,255 
+Turner,470,1,1,1,nan,13,1172 
+Phillip,450,1,1,1,Gym,14,399 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Phillip,470,1,1,1,nan,14,399 
+Amaroo,450,1,1,1,Pets Allowed,11,381 
+Ainslie,nan,1,1,0,Built in wardrobes,12,600 
+Phillip,500,2,2,1,Air conditioning,14,424 
+Gungahlin,480,1,1,1,Pets Allowed,11,678 
+Denman Prospect,460,1,1,1,Pets Allowed,7,529 
+Phillip,490,1,1,1,Pets Allowed,14,457 
+Phillip,480,1,1,1,Built in wardrobes,14,409 
+Griffith,nan,1,1,1,Built in wardrobes,15,201 
+Harrison,450,1,1,1,nan,9,113 
+Lyneham,455,1,1,1,Secure Parking,13,508 
+Dickson,475,1,1,1,nan,14,708 
+Phillip,470,1,1,1,nan,14,405 
+Phillip,460,1,1,1,nan,14,547 
+Curtin,470,2,1,1,Air conditioning,13,405 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Amaroo,500,2,1,2,Pets Allowed,11,381 
+Isaacs,485,1,1,0,Study,13,1462 
+Braddon,nan,2,1,0,nan,12,241 
+Greenway,480,2,1,1,Pets Allowed,13,657 
+Phillip,450,1,1,1,Air conditioning,14,424 
+Greenway,490,2,1,1,Pets Allowed,13,657 
+Greenway,450,1,1,1,Pets Allowed,13,657 
+Taylor,470,2,1,0,nan,8,594 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Gungahlin,480,1,1,1,Pets Allowed,11,420 
+Phillip,470,1,1,1,Air conditioning,14,399 
+Greenway,480,2,1,1,Pets Allowed,13,657 
+Phillip,480,1,1,1,Secure Parking,14,458 
+Coombs,475,1,1,0,Furnished,9,648 
+Turner,490,1,1,1,Pets Allowed,13,266 
+Phillip,480,1,1,1,Gym,14,424 
+Dickson,450,2,1,1,nan,14,252 
+Phillip,450,1,1,1,nan,14,399 
+Turner,490,1,1,1,Pets Allowed,13,266 
+Watson,450,1,1,0,nan,14,119 
+Macquarie,500,3,1,1,Secure Parking,9,560 
+Reid,465,1,1,1,Internal Laundry,13,827 
+Phillip,485,1,1,1,Energy Eff. Rating: 6,14,728 
+Phillip,480,1,1,1,nan,14,769 
+Phillip,480,1,1,1,Air conditioning,14,399 
+Turner,460,1,1,1,nan,13,1105 
+Taylor,450,3,2,2,Balcony,7,979 
+O'Connor,480,1,1,0,Courtyard,13,695 
+nan,500,1,1,0,Air conditioning,10,914 
+Greenway,480,1,1,1,Internal Laundry,13,946 
+Phillip,480,1,1,1,Internal Laundry,16,494 
+Phillip,480,1,1,1,Internal Laundry,16,494 
+Phillip,460,1,1,1,Internal Laundry,16,508 
+Bruce,500,2,1,1,Air conditioning,12,915 
+Lyneham,530,2,1,1,Secure Parking,12,1116 
+Pearce,500,2,1,1,nan,13,512 
+Belconnen,550,2,1,1,Air conditioning,10,223 
+Ngunnawal,540,2,1,1,Garden / Courtyard,10,1202 
+Waramanga,530,2,1,1,Energy Eff. Rating: 5,13,295 
+Kaleen,nan,2,1,2,Built in wardrobes,12,211 
+Campbell,540,1,1,1,Energy Eff. Rating: 6,13,628 
+Braddon,550,1,1,1,Dishwasher,13,668 
+Fraser,550,3,1,2,Balcony,8,364 
+Belconnen,520,2,1,1,nan,10,635 
+Kingston,500,1,1,1,nan,15,355 
+Braddon,550,1,1,1,Furnished,13,603 
+Kingston,530,2,1,1,Dishwasher,15,414 
+Greenway,540,2,2,1,nan,12,1114 
+O'Connor,505,2,1,1,Pets Allowed,13,1270 
+City,550,1,1,1,nan,13,1075 
+Kingston,510,1,1,1,nan,15,1104 
+Turner,nan,1,1,1,Energy Eff. Rating: 5,13,472 
+Torrens,545,3,1,1,nan,13,527 
+Chisholm,540,2,1,1,nan,10,672 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Lyneham,550,1,1,1,Floorboards,13,320 
+Moncrieff,520,2,2,1,nan,8,390 
+Scullin,500,2,1,1,Built in wardrobes,13,474 
+Phillip,500,1,1,1,nan,14,384 
+Moncrieff,520,2,2,1,Energy Eff. Rating: 7.5,8,390 
+Kingston,nan,1,1,1,Heating,15,804 
+Reid,500,1,2,1,nan,13,735 
+Campbell,520,1,1,1,nan,13,171 
+Ngunnawal,550,3,2,2,Air conditioning,11,1039 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Braddon,500,1,1,1,Air conditioning,13,676 
+Evatt,530,2,1,1,Built in wardrobes,12,433 
+Phillip,520,1,1,1,Gym,14,405 
+Kingston,550,1,1,1,Close to transport,15,615 
+Belconnen,510,2,1,1,nan,10,644 
+Holt,520,2,2,2,nan,10,812 
+Franklin,nan,2,2,2,nan,10,919 
+Greenway,540,1,1,1,Air conditioning,12,175 
+Banks,520,3,1,1,nan,6,1060 
+Turner,540,1,1,1,Secure Parking,13,456 
+Lyneham,520,1,1,1,Energy Eff. Rating: 5.5,13,435 
+Campbell,550,1,1,1,Secure Parking,13,309 
+Denman Prospect,510,1,1,1,Air conditioning,7,834 
+Phillip,530,2,2,1,Air conditioning,14,399 
+Kingston,500,1,1,1,nan,15,556 
+Melba,550,2,1,1,nan,11,368 
+Griffith,nan,2,1,1,Built in wardrobes,15,333 
+Taylor,500,1,1,0,nan,9,564 
+Belconnen,540,1,1,1,Air conditioning,10,531 
+Phillip,500,1,1,1,nan,14,720 
+Campbell,510,2,1,1,nan,13,298 
+Belconnen,500,1,1,1,Pets Allowed,10,252 
+Farrer,520,2,1,1,nan,13,601 
+Phillip,550,2,1,1,Alarm System,14,547 
+Amaroo,510,2,1,2,Pets Allowed,11,381 
+Kingston,535,1,1,1,nan,15,412 
+Wright,540,2,2,1,Pets Allowed,9,757 
+Turner,500,1,1,1,Pets Allowed,13,266 
+Phillip,500,1,1,1,Secure Parking,14,813 
+Reid,510,1,1,1,Air conditioning,13,731 
+Ngunnawal,530,2,1,1,nan,11,608 
+Belconnen,550,2,2,2,Built in wardrobes,10,612 
+Campbell,500,1,1,1,Close to transport,13,670 
+Phillip,535,2,2,1,Air conditioning,14,453 
+Lawson,550,2,1,1,nan,12,978 
+Phillip,nan,1,1,1,Furnished,14,384 
+Belconnen,540,2,2,1,Air conditioning,10,244 
+Wanniassa,520,2,1,1,nan,11,397 
+Lyneham,550,1,1,1,Air conditioning,13,435 
+Franklin,550,2,2,2,nan,9,337 
+Barton,520,1,1,1,Air conditioning,14,737 
+Belconnen,550,2,2,1,Pets Allowed,10,232 
+Kambah,550,3,1,1,nan,14,485 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Braddon,550,1,1,1,Air conditioning,13,814 
+Phillip,510,1,1,1,Air conditioning,14,547 
+Weston,500,2,2,2,Secure Parking,14,398 
+Turner,550,1,1,1,Furnished,13,1172 
+Lyneham,500,1,1,0,Air conditioning,13,508 
+Braddon,530,1,1,1,Floorboards,13,765 
+Belconnen,540,2,1,1,Built in wardrobes,10,735 
+Griffith,500,2,1,1,nan,15,238 
+City,550,1,1,1,Secure Parking,12,1844 
+Charnwood,550,3,1,1,Built in wardrobes,9,113 
+Braddon,550,1,1,1,Air conditioning,13,765 
+Phillip,500,1,1,1,Energy Eff. Rating: 6,14,547 
+Campbell,530,1,1,1,Energy Eff. Rating: 6,13,630 
+Phillip,515,2,1,1,Intercom,14,547 
+Griffith,550,2,1,1,Air conditioning,15,231 
+Ngunnawal,520,2,2,1,Secure Parking,10,909 
+O'Malley,550,1,1,2,Air conditioning,13,808 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Watson,520,2,2,2,Energy Eff. Rating: 5,14,1073 
+Gungahlin,510,2,1,2,Dishwasher,11,580 
+Harrison,540,2,2,2,Pets Allowed,11,358 
+Fyshwick,500,2,1,1,Pets Allowed,15,189 
+Ngunnawal,500,2,1,1,Air conditioning,11,1075 
+Greenway,540,2,2,2,Air conditioning,12,1085 
+Hughes,550,3,2,1,Energy Eff. Rating: 0.5,13,793 
+Braddon,520,1,1,1,Energy Eff. Rating: 6,13,472 
+Phillip,520,2,1,1,Energy Eff. Rating: 4.5,14,711 
+Campbell,520,1,1,1,Close to transport,13,750 
+Narrabundah,515,3,1,1,nan,15,562 
+Hawker,500,3,2,1,Air conditioning,11,359 
+Conder,530,3,1,0,nan,7,297 
+Coombs,540,2,1,1,Pets Allowed,9,647 
+Holder,nan,4,1,1,Built in wardrobes,13,497 
+Gungahlin,500,2,1,0,nan,11,580 
+Franklin,510,2,1,1,nan,11,908 
+Lyneham,500,2,1,1,nan,13,196 
+Narrabundah,nan,2,1,1,Built in wardrobes,14,898 
+Braddon,550,1,1,1,Energy Eff. Rating: 6,13,593 
+Campbell,550,1,1,1,nan,13,636 
+Greenway,540,1,1,1,Air conditioning,12,175 
+Amaroo,550,3,1,1,Air conditioning,11,851 
+Harrison,nan,2,1,1,nan,9,853 
+City,nan,1,1,1,Energy Eff. Rating: 5,13,1098 
+City,540,1,1,1,Intercom,13,1692 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Phillip,550,2,1,1,Secure Parking,14,547 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Ainslie,525,1,1,1,Secure Parking,14,622 
+Barton,550,1,1,1,Air conditioning,14,785 
+Gungahlin,525,2,1,1,Secure Parking,12,409 
+Belconnen,520,2,1,3,Ensuite(s),12,784 
+Lyneham,500,1,1,1,Gym,13,435 
+Campbell,520,1,1,1,nan,13,684 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Belconnen,550,2,1,2,Pets Allowed,10,386 
+Forrest,550,1,1,1,Energy Eff. Rating: 6,14,172 
+Bonython,520,2,1,1,Secure Parking,11,908 
+Phillip,520,1,1,1,Gym,14,424 
+Kingston,520,2,1,1,Air conditioning,15,692 
+Turner,515,1,1,1,nan,13,528 
+Wanniassa,500,2,1,1,nan,11,357 
+Phillip,530,2,2,1,Secure Parking,14,547 
+Wright,530,2,1,1,Balcony,9,707 
+City,550,1,1,1,Area Views,13,1333 
+Braddon,500,2,1,1,nan,13,290 
+Braddon,525,2,1,2,nan,13,356 
+Amaroo,500,2,1,1,Pets Allowed,11,381 
+Phillip,550,2,1,1,Air conditioning,14,850 
+Barton,530,1,1,1,nan,14,806 
+Ngunnawal,550,3,1,1,Heating,9,733 
+Belconnen,530,2,2,1,Pets Allowed,10,273 
+Griffith,520,2,1,1,nan,15,238 
+Reid,530,2,1,1,nan,13,774 
+Forde,530,2,1,1,Fully fenced,9,858 
+Strathnairn,550,2,1,1,Energy Eff. Rating: 6,8,2265 
+Moncrieff,520,2,1,0,Above ground pool,9,158 
+Dickson,550,1,1,1,Energy Eff. Rating: 0.1,14,629 
+Gungahlin,500,2,1,1,Energy Eff. Rating: 6,11,453 
+Phillip,540,2,2,1,Air conditioning,14,424 
+Amaroo,510,2,2,2,Pets Allowed,11,381 
+Harrison,520,2,2,2,nan,9,113 
+O'Connor,550,1,1,1,Furnished,13,193 
+Phillip,510,1,1,1,Gym,14,424 
+Palmerston,550,2,1,1,Secure Parking,11,453 
+Reid,540,1,1,1,Secure Parking,13,775 
+Phillip,550,2,1,1,Energy Eff. Rating: 6,14,547 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Phillip,500,2,2,1,Air conditioning,14,424 
+Phillip,530,2,2,1,nan,14,399 
+Gungahlin,520,1,1,1,nan,11,678 
+Phillip,530,2,1,1,Energy Eff. Rating: 3.5,14,896 
+Phillip,530,2,2,1,Pets Allowed,14,399 
+Phillip,550,2,2,2,Pets Allowed,14,424 
+Phillip,550,2,2,2,Pets Allowed,14,453 
+Phillip,530,2,2,1,Pets Allowed,14,424 
+Phillip,530,2,2,1,Pets Allowed,14,453 
+Griffith,550,2,2,1,nan,15,595 
+Reid,550,1,1,1,nan,13,775 
+Barton,nan,1,1,1,Dishwasher,14,864 
+Campbell,540,1,1,1,Air conditioning,13,488 
+Campbell,550,2,1,1,nan,13,325 
+Gungahlin,515,2,1,1,Pets Allowed,11,678 
+Gungahlin,530,2,2,1,Pets Allowed,11,678 
+Braddon,530,1,1,1,Balcony / Deck,13,814 
+Gungahlin,530,2,1,1,Pets Allowed,11,678 
+Coombs,540,2,1,2,nan,9,648 
+O'Connor,505,1,1,1,Air conditioning,13,257 
+Gungahlin,545,1,1,1,Pets Allowed,11,420 
+Turner,530,1,1,1,Intercom,13,329 
+Amaroo,500,2,1,2,Pets Allowed,11,381 
+Gungahlin,550,2,2,1,Pets Allowed,11,420 
+Phillip,500,1,1,1,Air conditioning,14,399 
+Braddon,nan,2,1,0,nan,12,241 
+Phillip,510,1,1,1,Air conditioning,14,399 
+Phillip,530,2,2,1,Air conditioning,14,399 
+Strathnairn,520,2,1,0,Air conditioning,8,1928 
+Phillip,480,1,1,1,Gym,14,424 
+Phillip,nan,1,1,1,Gym,14,399 
+Barton,550,2,1,1,Air conditioning,14,356 
+Campbell,510,1,1,0,Furnished,13,229 
+Belconnen,550,2,1,1,Balcony,10,325 
+City,530,1,1,1,Secure Parking,13,1711 
+Ainslie,nan,1,1,0,Built in wardrobes,12,600 
+Gungahlin,550,2,1,0,Air conditioning,10,622 
+Hackett,550,2,1,1,nan,13,107 
+Braddon,540,1,1,1,Internal Laundry,13,676 
+Macquarie,500,3,1,1,Secure Parking,9,560 
+Dickson,520,1,1,1,Furnished,14,564 
+Calwell,520,3,1,1,nan,10,576 
+Coombs,530,2,1,1,Air conditioning,9,425 
+Bruce,500,2,1,1,Air conditioning,12,915 
+Bruce,540,2,1,1,Balcony,12,986 
+Farrer,550,2,1,1,Pets Allowed,13,677 
+Denman Prospect,550,2,1,1,Broadband internet access,7,420 
+nan,500,1,1,0,Air conditioning,10,914 
+Melba,550,2,1,1,Air conditioning,11,384 
+Downer,520,3,1,0,nan,16,564 
+Greenway,540,2,2,1,Pets Allowed,13,657 
+Greenway,540,2,2,1,Pets Allowed,13,657 
+Casey,590,2,2,1,Energy Eff. Rating: 6,10,666 
+Gungahlin,575,4,1,1,Dishwasher,10,799 
+Ngunnawal,560,3,1,1,nan,11,819 
+City,560,1,1,1,Air conditioning,13,1137 
+Franklin,590,3,2,1,Built in wardrobes,10,621 
+Amaroo,599,4,2,1,nan,11,873 
+Fraser,550,3,1,2,Balcony,8,364 
+Kingston,560,2,1,1,nan,15,689 
+Torrens,545,3,1,1,nan,13,527 
+Braddon,550,1,1,1,Furnished,13,603 
+Griffith,580,2,1,1,Secure Parking,15,694 
+Phillip,590,2,2,1,Air conditioning,16,508 
+Narrabundah,600,2,2,1,nan,13,458 
+City,550,1,1,1,nan,13,1075 
+Belconnen,575,2,2,2,nan,10,200 
+Barton,580,1,1,1,Energy Eff. Rating: 6,14,785 
+Griffith,560,1,1,1,Air conditioning,15,789 
+Barton,560,1,1,1,Intercom,14,806 
+Giralang,575,3,1,2,nan,9,446 
+Braddon,550,1,1,1,Dishwasher,13,668 
+Phillip,550,2,1,1,Alarm System,14,547 
+Belconnen,590,2,1,2,Partially furnished,10,228 
+Ngunnawal,550,3,2,2,Air conditioning,11,1039 
+Barton,600,1,1,1,Air conditioning,14,737 
+Hughes,600,4,1,3,Courtyard,13,382 
+Lyneham,550,1,1,1,Floorboards,13,320 
+Dickson,600,2,2,1,Gym,14,235 
+Franklin,nan,2,2,2,nan,10,919 
+Griffith,590,1,1,1,Secure Parking,15,753 
+Kingston,550,1,1,1,Close to transport,15,615 
+Braddon,590,2,1,1,nan,13,195 
+Griffith,570,2,2,1,nan,15,690 
+Wright,580,2,2,2,nan,9,327 
+Phillip,530,2,2,1,Air conditioning,14,399 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Amaroo,580,3,2,1,Secure Parking,11,793 
+Bruce,595,2,2,2,Pets Allowed,12,686 
+Belconnen,550,2,1,1,Air conditioning,10,223 
+Farrer,585,3,1,1,nan,13,1170 
+Kingston,600,2,2,1,nan,15,356 
+Braddon,600,1,1,1,Air conditioning,13,436 
+Page,585,3,1,1,Air conditioning,13,1154 
+Braddon,595,1,1,1,Air conditioning,13,518 
+Phillip,nan,1,1,1,Furnished,14,384 
+Pearce,560,2,2,1,nan,13,181 
+Kambah,550,3,1,1,nan,14,485 
+Dickson,600,1,2,1,Air conditioning,14,508 
+Taylor,600,2,2,2,Energy Eff. Rating: 7,10,156 
+Turner,550,1,1,1,Furnished,13,1172 
+Dunlop,580,3,1,1,Built in wardrobes,9,1629 
+Coombs,560,2,2,2,Intercom,9,647 
+Braddon,550,1,1,1,Air conditioning,13,814 
+Melba,550,2,1,1,nan,11,368 
+Greenway,560,2,2,1,nan,12,570 
+Kingston,570,2,1,2,Energy Eff. Rating: 2,15,738 
+Belconnen,570,2,2,1,Pets Allowed,10,273 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Harrison,580,2,2,2,Built in wardrobes,11,435 
+Campbell,550,1,1,1,Secure Parking,13,309 
+Phillip,570,2,2,1,Air conditioning,14,453 
+Phillip,570,2,2,1,Air conditioning,14,453 
+Spence,575,3,1,1,Secure Parking,12,1027 
+Braddon,570,1,1,1,Air conditioning,13,728 
+Belconnen,570,2,2,1,Pets Allowed,10,223 
+Giralang,580,3,1,2,Air conditioning,9,569 
+Phillip,600,2,2,2,Balcony,14,547 
+Ngunnawal,570,3,1,1,Built in wardrobes,10,310 
+Franklin,600,2,2,2,Air conditioning,9,308 
+Charnwood,nan,3,2,2,Heating,9,476 
+Kingston,580,1,1,1,nan,15,1058 
+Belconnen,600,2,2,2,Intercom,10,204 
+Belconnen,550,2,2,2,Built in wardrobes,10,612 
+Franklin,570,2,2,2,Energy Eff. Rating: 6,10,983 
+Phillip,580,2,1,1,Air conditioning,16,508 
+City,570,1,1,1,Balcony,13,1989 
+Franklin,560,2,2,2,Secure Parking,9,368 
+Belconnen,550,2,2,1,Pets Allowed,10,232 
+Franklin,550,2,2,2,nan,9,337 
+Belconnen,nan,2,2,2,nan,12,885 
+Lyneham,550,1,1,1,Air conditioning,13,435 
+Charnwood,550,3,1,1,Built in wardrobes,9,113 
+City,550,1,1,1,Secure Parking,12,1844 
+City,590,1,1,1,Secure Parking,13,1333 
+Casey,570,2,1,1,nan,10,1505 
+Monash,590,3,1,1,Air conditioning,12,845 
+O'Connor,nan,3,1,0,Pets Allowed,13,353 
+Phillip,590,2,2,1,Air conditioning,14,458 
+O'Malley,550,1,1,2,Air conditioning,13,808 
+Lawson,600,2,3,2,nan,12,873 
+Belconnen,595,2,2,2,Air conditioning,12,1020 
+Hughes,550,3,2,1,Energy Eff. Rating: 0.5,13,793 
+Macquarie,570,2,1,1,Secure Parking,10,523 
+Reid,595,2,2,1,Swimming Pool,13,827 
+Lawson,550,2,1,1,nan,12,978 
+Palmerston,585,2,1,1,Built in wardrobes,11,591 
+Phillip,550,2,2,1,Air conditioning,16,508 
+Franklin,580,2,2,2,nan,9,337 
+Griffith,550,2,1,1,Air conditioning,15,231 
+Casey,565,2,1,1,Secure Parking,10,1443 
+City,570,1,1,1,Balcony,13,1989 
+Scullin,575,3,1,1,Garden / Courtyard,13,926 
+Coombs,590,2,2,2,Secure Parking,10,408 
+Barton,600,1,1,1,Furnished,14,785 
+Campbell,550,1,1,1,nan,13,636 
+Phillip,600,2,1,2,Air conditioning,14,547 
+Braddon,550,1,1,1,Energy Eff. Rating: 6,13,593 
+Dickson,nan,3,1,1,nan,14,432 
+Phillip,580,2,1,1,Air conditioning,14,547 
+Braddon,550,1,1,1,Air conditioning,13,765 
+Kingston,590,2,2,1,Air conditioning,15,521 
+Holt,595,3,1,2,nan,10,402 
+Griffith,590,2,2,1,nan,15,690 
+Holder,600,4,1,1,nan,11,689 
+Ngunnawal,595,3,1,2,Air conditioning,10,906 
+Fisher,580,3,1,2,nan,13,860 
+Greenway,600,2,2,2,Pets Allowed,13,989 
+Ngunnawal,600,3,2,2,Pets Allowed,11,1008 
+Phillip,390,2,1,1,Air conditioning,16,494 
+Gungahlin,590,2,2,1,nan,11,578 
+Greenway,600,2,2,2,nan,12,553 
+Swinger Hill,570,2,1,1,nan,13,562 
+Phillip,580,2,1,1,nan,14,547 
+Forrest,550,1,1,1,Energy Eff. Rating: 6,14,172 
+Phillip,575,2,2,1,nan,14,399 
+Belconnen,550,2,1,2,Pets Allowed,10,386 
+Calwell,nan,3,1,1,Air conditioning,10,357 
+Bruce,575,2,2,2,Secure Parking,12,801 
+Deakin,580,3,1,0,nan,14,724 
+Braddon,565,1,1,1,Air conditioning,13,816 
+Ngunnawal,570,3,1,1,Close to shops,10,1010 
+Forrest,565,1,1,1,nan,14,172 
+Phillip,560,2,2,1,Air conditioning,14,409 
+Dickson,595,2,2,1,Gym,14,557 
+Braddon,nan,2,2,1,Built in wardrobes,13,882 
+Griffith,560,2,1,1,nan,15,595 
+Amaroo,550,3,1,1,Air conditioning,11,851 
+Rivett,560,3,1,1,Bathtub,14,1202 
+Phillip,560,2,2,1,Air conditioning,14,399 
+Barton,560,1,1,1,Intercom,14,806 
+Ngunnawal,550,3,1,1,Heating,9,733 
+Turner,600,1,1,1,Furnished,13,1013 
+Phillip,580,2,2,1,nan,14,399 
+Gungahlin,600,2,2,2,Energy Eff. Rating: 6,11,548 
+Phillip,560,2,2,2,nan,14,547 
+Dickson,600,2,2,2,nan,14,451 
+Dickson,550,1,1,1,Energy Eff. Rating: 0.1,14,629 
+Belconnen,570,3,1,2,Built in wardrobes,10,723 
+Phillip,550,2,1,1,Air conditioning,14,850 
+O'Connor,550,1,1,1,Furnished,13,193 
+Barton,560,1,1,1,nan,14,686 
+Kingston,560,2,2,1,Air conditioning,15,489 
+Kambah,590,3,1,1,Close to transport,14,344 
+Strathnairn,550,2,1,1,Energy Eff. Rating: 6,8,2265 
+Phillip,550,2,1,1,Secure Parking,14,547 
+Barton,550,1,1,1,Air conditioning,14,785 
+City,550,1,1,1,Area Views,13,1333 
+Phillip,575,2,2,1,nan,14,409 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Harrison,550,2,2,2,Pets Allowed,11,358 
+Griffith,560,2,2,1,nan,15,219 
+Campbell,550,2,1,1,nan,13,325 
+Taylor,600,2,2,2,nan,10,155 
+Forrest,565,1,1,2,Dishwasher,14,461 
+Phillip,590,2,2,2,Air conditioning,14,399 
+Griffith,550,2,2,1,nan,15,595 
+Braddon,600,2,2,1,Energy Eff. Rating: 0.1,13,882 
+Reid,550,1,1,1,nan,13,775 
+Palmerston,550,2,1,1,Secure Parking,11,453 
+Forrest,580,1,1,1,Air conditioning,14,412 
+Phillip,550,2,1,1,Energy Eff. Rating: 6,14,547 
+Garran,590,3,1,1,nan,13,360 
+Phillip,550,2,2,2,Pets Allowed,14,424 
+Braddon,590,2,1,1,Area Views,13,593 
+Phillip,550,2,2,2,Pets Allowed,14,453 
+Ngunnawal,600,3,2,1,Ensuite,10,586 
+Belconnen,600,2,2,2,Pets Allowed,10,347 
+Braddon,590,1,1,1,Energy Eff. Rating: 5,13,882 
+Evatt,570,3,1,1,nan,12,534 
+Turner,600,3,1,0,nan,13,712 
+Gungahlin,550,2,2,1,Pets Allowed,11,420 
+Griffith,600,2,1,2,Air conditioning,14,254 
+Gungahlin,570,2,1,2,Pets Allowed,11,420 
+Phillip,570,2,2,1,Air conditioning,14,424 
+Bruce,600,2,2,2,Air conditioning,12,1055 
+Chifley,575,3,1,1,nan,13,1033 
+Griffith,570,2,1,1,Balcony,15,595 
+Lyons,575,3,1,1,Gas Heating,14,683 
+Griffith,570,2,2,1,nan,15,219 
+Kaleen,600,4,2,2,Built in wardrobes,11,617 
+Campbell,565,1,1,1,Dishwasher,13,604 
+Gungahlin,550,2,1,0,Air conditioning,10,622 
+Gungahlin,545,1,1,1,Pets Allowed,11,420 
+Barton,550,2,1,1,Air conditioning,14,356 
+Wanniassa,600,3,1,2,Secure Parking,13,430 
+Amaroo,600,3,2,1,Secure Parking,11,854 
+Phillip,590,2,2,2,nan,14,409 
+Belconnen,550,2,1,1,Balcony,10,325 
+Kingston,600,2,1,1,Dishwasher,15,823 
+Denman Prospect,565,2,1,2,Secure Parking,7,420 
+Melba,550,2,1,1,Air conditioning,11,384 
+Macgregor,590,3,1,2,Energy Eff. Rating: 1,10,736 
+Griffith,575,2,2,1,Air conditioning,15,260 
+Hackett,550,2,1,1,nan,13,107 
+nan,600,1,1,1,Ensuite,12,477 
+Denman Prospect,550,2,1,1,Broadband internet access,7,420 
+Reid,595,2,1,1,Gas,13,772 
+Macquarie,600,3,2,1,nan,9,560 
+Holder,600,3,1,2,Air conditioning,13,223 
+Farrer,550,2,1,1,Pets Allowed,13,677 
+Griffith,595,1,1,1,Air conditioning,15,260 
+Griffith,600,2,2,2,Pets Allowed,15,201 
+Page,580,3,1,1,Secure Parking,11,622 
+Phillip,590,2,2,1,Secure Parking,14,458 
+Belconnen,560,2,1,1,Air conditioning,10,223 
+Ngunnawal,560,3,2,1,Air conditioning,10,1027 
+Kambah,580,2,1,1,Gas,12,503 
+Gilmore,560,3,1,1,Pets Allowed,9,663 
+Phillip,590,2,2,1,Internal Laundry,14,453 
+Phillip,600,2,2,1,Internal Laundry,14,425 
+Reid,560,2,1,1,Heating,13,749 
+Melba,630,3,1,2,Study,9,447 
+Amaroo,599,4,2,1,nan,11,873 
+Lyneham,650,2,2,2,nan,13,435 
+Watson,620,3,1,2,Built in wardrobes,14,439 
+Narrabundah,650,2,2,1,Air conditioning,13,459 
+Casey,650,3,2,2,Built in wardrobes,10,909 
+Lyons,650,3,2,2,Ensuite,14,941 
+Barton,650,2,2,1,nan,14,806 
+Harrison,605,2,2,1,nan,9,261 
+Narrabundah,620,2,2,1,Floorboards,14,923 
+Phillip,630,2,2,2,Built in wardrobes,14,728 
+Griffith,620,1,1,1,nan,15,520 
+Phillip,610,2,2,1,Balcony,14,453 
+Dickson,630,2,2,1,nan,14,580 
+Garran,640,3,1,1,nan,13,484 
+Downer,650,3,1,2,nan,15,495 
+Coombs,650,3,2,2,Energy Eff. Rating: 4,9,647 
+Narrabundah,600,2,2,1,nan,13,458 
+Florey,650,3,1,1,Internal Laundry,12,177 
+Bruce,595,2,2,2,Pets Allowed,12,686 
+Braddon,600,1,1,1,Air conditioning,13,436 
+Phillip,620,2,1,2,Open Fire Place,13,448 
+Dickson,600,2,2,1,Gym,14,235 
+Phillip,630,2,2,2,Air conditioning,14,547 
+Kingston,650,3,2,1,Air conditioning,15,572 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Hughes,600,4,1,3,Courtyard,13,382 
+Barton,600,1,1,1,Air conditioning,14,737 
+Ngunnawal,600,3,1,2,Secure Parking,9,385 
+Denman Prospect,620,2,2,2,Open plan living,7,778 
+Banks,610,3,1,2,nan,6,1026 
+Griffith,650,2,2,2,Pets Allowed,15,201 
+Kingston,600,2,2,1,nan,15,356 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+Dickson,650,2,2,1,nan,14,629 
+Higgins,650,3,2,2,Secure Parking,10,510 
+Reid,630,2,2,1,Air conditioning,13,790 
+Dickson,650,2,1,2,Secure Parking,14,443 
+Narrabundah,610,1,1,1,Fully fenced,15,421 
+Casey,nan,3,2,1,Air conditioning,10,1109 
+Barton,650,1,1,1,Furnished,14,807 
+Phillip,630,2,2,1,Gym,14,405 
+Dickson,650,2,2,1,Ensuite,14,623 
+Evatt,630,3,1,2,Energy Eff. Rating: 2,12,311 
+Phillip,600,2,2,2,Balcony,14,547 
+Lawson,650,3,3,3,Air conditioning,12,1014 
+Turner,630,2,2,2,Built in wardrobes,13,1172 
+Macquarie,650,3,1,1,Floorboards,9,295 
+Franklin,600,2,2,2,Air conditioning,9,308 
+Belconnen,600,2,2,2,Intercom,10,204 
+Lyneham,625,1,1,1,Air conditioning,13,508 
+Braddon,595,1,1,1,Air conditioning,13,518 
+Braddon,630,2,2,1,nan,13,882 
+Charnwood,nan,3,2,2,Heating,9,476 
+Braddon,650,2,2,1,nan,13,788 
+Taylor,600,2,2,2,Energy Eff. Rating: 7,10,156 
+Cook,630,3,2,1,Air conditioning,10,615 
+Coombs,650,3,2,2,nan,9,348 
+Downer,630,2,2,1,Air conditioning,15,881 
+Dickson,600,1,2,1,Air conditioning,14,508 
+Braddon,650,2,2,2,Secure Parking,13,701 
+Gungahlin,640,3,2,1,Secure Parking,11,493 
+Belconnen,595,2,2,2,Air conditioning,12,1020 
+Gungahlin,620,2,1,1,Secure Parking,12,363 
+Lawson,600,2,3,2,nan,12,873 
+Phillip,650,2,2,1,Air conditioning,14,458 
+Phillip,650,1,1,1,Air conditioning,14,547 
+Evatt,630,3,2,0,Energy Eff. Rating: 1,12,232 
+Reid,650,2,2,1,Pets Allowed,13,777 
+Kingston,620,2,2,1,nan,15,802 
+Reid,595,2,2,1,Swimming Pool,13,827 
+Garran,650,3,1,2,Secure Parking,13,721 
+Forrest,620,2,2,2,Secure Parking,14,301 
+Curtin,635,2,2,2,nan,13,263 
+Braddon,640,2,2,1,Secure Parking,13,790 
+Taylor,650,3,1,1,Remote Garage,10,829 
+Griffith,620,2,2,2,nan,14,285 
+Chisholm,650,3,1,1,Deck,11,610 
+Evatt,610,3,1,1,Built in wardrobes,12,440 
+Florey,620,3,1,4,nan,12,313 
+Belconnen,630,2,2,2,Secure Parking,10,366 
+Holt,595,3,1,2,nan,10,402 
+Phillip,600,2,1,2,Air conditioning,14,547 
+Bonner,640,3,2,2,Energy Eff. Rating: 4.5,9,274 
+Holder,600,4,1,1,nan,11,689 
+Barton,600,1,1,1,Furnished,14,785 
+Dickson,nan,3,1,1,nan,14,432 
+Kambah,630,3,1,1,nan,11,1275 
+Barton,630,1,1,1,Air conditioning,14,181 
+Moncrieff,650,3,2,2,nan,8,244 
+Phillip,650,2,2,2,Intercom,14,547 
+Gungahlin,625,3,2,1,Energy Eff. Rating: 5,11,117 
+Braddon,nan,2,2,1,Built in wardrobes,13,882 
+Mawson,640,3,2,1,nan,13,1014 
+Phillip,620,3,2,2,Built in wardrobes,13,596 
+Ngunnawal,595,3,1,2,Air conditioning,10,906 
+Greenway,600,2,2,2,Pets Allowed,13,989 
+Lyons,620,3,1,1,Close to transport,14,557 
+Denman Prospect,620,2,2,2,Energy Eff. Rating: 6,7,782 
+Ngunnawal,600,3,2,2,Pets Allowed,11,1008 
+Dickson,595,2,2,1,Gym,14,557 
+Phillip,650,2,2,2,Air conditioning,14,909 
+Franklin,635,3,3,1,Energy Eff. Rating: 7,10,230 
+Strathnairn,620,4,2,1,Energy Eff. Rating: 7.5,7,2515 
+Braddon,620,1,1,1,Air conditioning,13,676 
+City,650,2,2,1,Furnished,13,1463 
+Waramanga,650,3,1,1,Energy Eff. Rating: 1,13,415 
+Swinger Hill,640,3,1,1,nan,14,818 
+Ngunnawal,620,3,2,2,Secure Parking,11,1100 
+Greenway,600,2,2,2,nan,12,553 
+Coombs,650,3,2,2,nan,10,457 
+O'Connor,640,3,1,2,Courtyard,13,1113 
+Dickson,625,2,1,1,Close to transport,14,675 
+Mawson,650,3,1,2,Ensuite(s),13,957 
+Downer,650,3,1,1,nan,15,798 
+Palmerston,620,3,1,3,Secure Parking,11,307 
+Flynn,nan,3,2,2,Built in wardrobes,10,908 
+Harrison,650,3,1,1,nan,10,1265 
+Chifley,625,3,1,1,nan,13,1120 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Turner,630,2,2,2,Pets Allowed,13,266 
+Belconnen,600,2,2,2,Pets Allowed,10,347 
+Lyneham,630,1,1,1,Air conditioning,13,435 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+Phillip,560,2,2,2,nan,14,547 
+Kingston,640,2,2,2,Intercom,15,681 
+Palmerston,620,3,2,1,Secure Parking,11,526 
+Duffy,630,3,1,1,nan,11,826 
+Dickson,600,2,2,2,nan,14,451 
+Red Hill,nan,2,2,2,nan,14,232 
+Gordon,nan,3,2,1,Bath,8,662 
+Turner,600,1,1,1,Furnished,13,1013 
+Weston,610,3,2,1,nan,14,412 
+O'Connor,640,2,2,1,Air conditioning,13,339 
+Narrabundah,640,3,2,1,Secure Parking,14,1041 
+Phillip,620,2,2,1,Air conditioning,14,453 
+Gungahlin,600,2,2,2,Energy Eff. Rating: 6,11,548 
+Dickson,nan,2,1,1,Built in wardrobes,14,623 
+City,650,2,1,1,nan,13,1137 
+Ainslie,650,3,1,2,nan,13,539 
+City,650,2,1,1,Balcony,13,1121 
+Yarralumla,640,2,1,2,nan,14,346 
+Phillip,610,2,2,1,Air conditioning,14,453 
+Kingston,600,2,1,1,Dishwasher,15,823 
+Kaleen,600,4,2,2,Built in wardrobes,11,617 
+Taylor,600,2,2,2,nan,10,155 
+Greenway,620,2,2,2,Air conditioning,12,1085 
+Braddon,600,2,2,1,Energy Eff. Rating: 0.1,13,882 
+Amaroo,600,3,2,1,Secure Parking,11,854 
+Phillip,590,2,2,2,Air conditioning,14,399 
+Narrabundah,nan,2,1,2,Built in wardrobes,15,421 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Turner,650,2,2,1,Air conditioning,13,515 
+nan,650,3,2,2,Secure Parking,9,381 
+Reid,nan,2,1,1,Intercom,13,790 
+Holt,650,3,2,2,Secure Parking,10,816 
+Ngunnawal,600,3,2,1,Ensuite,10,586 
+Forrest,620,2,1,1,nan,14,221 
+Yarralumla,635,2,1,1,nan,14,324 
+Belconnen,650,2,2,2,Energy Eff. Rating: 6,10,346 
+Phillip,570,2,2,1,Air conditioning,14,424 
+Hackett,650,3,1,1,nan,13,667 
+Griffith,600,2,1,2,Air conditioning,14,254 
+Kingston,640,2,2,2,Balcony,15,959 
+Turner,600,3,1,0,nan,13,712 
+Macquarie,600,3,2,1,nan,9,560 
+Forrest,620,2,3,2,Air conditioning,14,330 
+Dickson,620,2,2,0,Air conditioning,14,629 
+Narrabundah,650,4,1,3,Secure Parking,15,283 
+Belconnen,640,2,2,1,Air conditioning,10,247 
+Belconnen,620,2,2,1,Balcony,10,302 
+Watson,615,3,0,1,Secure Parking,11,1893 
+Franklin,650,3,1,1,Energy Eff. Rating: 5,10,460 
+Amaroo,640,3,2,2,Air conditioning,11,453 
+Bruce,600,2,2,2,Air conditioning,12,1055 
+Wanniassa,600,3,1,2,Secure Parking,13,430 
+Palmerston,649,3,2,2,Pets Allowed,11,475 
+Phillip,650,2,2,1,Air conditioning,14,551 
+Gungahlin,630,3,2,1,Pets Allowed,11,420 
+Griffith,630,1,1,1,Air conditioning,15,273 
+nan,650,3,1,0,nan,12,808 
+Florey,650,3,1,3,Secure Parking,12,649 
+nan,600,1,1,1,Ensuite,12,477 
+Coombs,620,2,2,2,Air conditioning,10,682 
+Griffith,630,2,1,1,Furnished,15,235 
+Phillip,600,2,2,1,Internal Laundry,14,425 
+nan,620,3,1,2,Secure Parking,12,189 
+Forrest,640,2,2,2,Internal Laundry,14,343 
+City,640,2,2,2,Pets Allowed,13,1711 
+Griffith,600,2,2,2,Pets Allowed,15,201 
+Bruce,650,2,3,2,Broadband internet access,12,958 
+Lawson,640,3,3,2,Air conditioning,12,978 
+Hackett,615,2,1,0,Pets Allowed,14,236 
+Holder,600,3,1,2,Air conditioning,13,223 
+Narrabundah,650,2,2,1,Air conditioning,13,459 
+O'Connor,700,3,1,0,nan,13,318 
+Casey,650,3,2,2,Built in wardrobes,10,909 
+Florey,650,3,1,1,Internal Laundry,12,177 
+Dickson,650,2,1,2,Secure Parking,14,443 
+Pearce,700,2,2,2,Energy Eff. Rating: 4,13,518 
+Kambah,670,3,2,2,Energy Eff. Rating: 3,13,630 
+Lyneham,650,2,2,2,nan,13,435 
+Griffith,660,2,2,2,Pets Allowed,15,853 
+Griffith,690,1,1,1,Air conditioning,15,753 
+Kaleen,680,3,2,2,Secure Parking,12,587 
+Barton,650,2,2,1,nan,14,806 
+Kingston,675,2,2,1,Air conditioning,15,412 
+Lyons,650,3,2,2,Ensuite,14,941 
+Downer,650,3,1,2,nan,15,495 
+Reid,700,2,2,2,Pets Allowed,13,790 
+Coombs,650,3,2,2,Energy Eff. Rating: 4,9,647 
+Griffith,660,2,2,2,Ensuite,15,467 
+Campbell,700,2,1,1,nan,13,684 
+Weston,700,3,1,1,nan,14,372 
+Florey,680,2,2,2,nan,12,438 
+Coombs,650,3,2,2,nan,9,348 
+Lawson,650,3,3,3,Air conditioning,12,1014 
+Lawson,680,3,2,2,Secure Parking,12,965 
+Kingston,680,1,1,1,Balcony,15,1142 
+Braddon,600,1,1,1,Air conditioning,13,436 
+Harrison,nan,3,2,1,Built in wardrobes,8,239 
+Kingston,650,3,2,1,Air conditioning,15,572 
+Waramanga,675,3,2,2,Air conditioning,13,436 
+Coombs,680,3,2,2,nan,10,666 
+Phillip,670,2,2,2,Air conditioning,14,547 
+Mawson,700,4,1,2,nan,13,729 
+Dickson,650,2,2,1,nan,14,629 
+Gungahlin,nan,4,2,2,Heating,10,603 
+Torrens,680,3,2,1,nan,13,296 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+Higgins,650,3,2,2,Secure Parking,10,510 
+Griffith,650,2,2,2,Pets Allowed,15,201 
+Lyneham,680,2,2,2,Spacious two-bedroom unit,13,435 
+Kingston,690,2,2,2,nan,15,1136 
+Reid,650,2,2,1,Pets Allowed,13,777 
+Garran,675,2,2,1,nan,13,228 
+Braddon,700,2,1,1,Built in wardrobes,13,518 
+Turner,nan,2,2,2,Dishwasher,13,528 
+Barton,650,1,1,1,Furnished,14,807 
+Chisholm,650,3,1,1,Deck,11,610 
+Macquarie,650,3,1,1,Floorboards,9,295 
+Braddon,680,1,1,1,Air conditioning,13,582 
+Kambah,nan,3,1,2,Floorboards,14,663 
+Kingston,nan,2,2,2,Intercom,15,608 
+Forde,680,3,1,2,Fully fenced,10,220 
+Denman Prospect,660,2,2,2,nan,7,711 
+Gungahlin,660,5,2,2,Secure Parking,10,928 
+Dickson,667,2,2,2,nan,14,557 
+Dickson,675,1,1,1,Air conditioning,14,508 
+Taylor,650,3,1,1,Remote Garage,10,829 
+Narrabundah,700,3,1,1,nan,14,625 
+Braddon,650,2,2,1,nan,13,788 
+Dickson,650,2,2,1,Ensuite,14,623 
+Evatt,700,4,2,1,Energy Eff. Rating: 2,12,749 
+Phillip,650,1,1,1,Air conditioning,14,547 
+Belconnen,nan,3,2,1,nan,10,730 
+Kingston,690,2,1,1,Air conditioning,15,1099 
+Moncrieff,650,3,2,2,nan,8,244 
+City,680,2,2,2,Pets Allowed,12,1844 
+Griffith,700,2,2,2,nan,15,520 
+Dickson,700,2,2,1,Air conditioning,14,454 
+Cook,700,3,2,1,Floorboards,10,449 
+Braddon,650,2,2,2,Secure Parking,13,701 
+Coombs,665,3,3,2,Air conditioning,9,208 
+Phillip,650,2,2,1,Air conditioning,14,458 
+Ngunnawal,670,3,2,2,Garden / Courtyard,11,427 
+Garran,650,3,1,2,Secure Parking,13,721 
+Weston,700,3,1,2,Secure Parking,14,1104 
+Barton,670,2,2,1,Energy Eff. Rating: 6,14,806 
+Wanniassa,695,3,2,2,nan,13,411 
+Downer,690,3,1,1,Energy Eff. Rating: 2.5,13,1120 
+Braddon,675,2,2,1,Secure Parking,13,667 
+Phillip,650,2,2,2,Intercom,14,547 
+Dickson,695,1,1,1,Air conditioning,14,508 
+Franklin,670,3,2,1,nan,10,222 
+Phillip,650,2,2,2,Air conditioning,14,909 
+City,650,2,1,1,nan,13,1137 
+City,650,2,2,1,Furnished,13,1463 
+Flynn,nan,3,2,2,Built in wardrobes,10,908 
+Casey,690,3,2,2,Pets Allowed,10,1521 
+Wright,660,3,2,2,Intercom,10,411 
+Mawson,650,3,1,2,Ensuite(s),13,957 
+Coombs,650,3,2,2,nan,10,457 
+Waramanga,700,4,1,1,Built in wardrobes,13,483 
+O'Connor,640,3,1,2,Courtyard,13,1113 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Torrens,700,3,2,1,Secure Parking,13,296 
+Downer,650,3,1,1,nan,15,798 
+Lyons,680,3,1,2,nan,14,691 
+Lawson,660,3,2,2,Secure Parking,12,1193 
+Lyons,695,3,1,1,Secure Parking,14,1302 
+Harrison,650,3,1,1,nan,10,1265 
+Moncrieff,670,3,2,2,Secure Parking,8,316 
+Waramanga,650,3,1,1,Energy Eff. Rating: 1,13,415 
+Latham,690,3,2,2,Floorboards,10,899 
+Phillip,665,2,2,2,nan,14,909 
+Lyneham,675,3,1,2,Fully fenced,13,404 
+Macquarie,675,3,2,2,nan,11,236 
+O'Connor,700,3,1,2,Pets Allowed,13,1143 
+Braddon,700,2,2,1,Air conditioning,13,577 
+Turner,650,2,2,1,Air conditioning,13,515 
+Phillip,650,2,2,2,Air conditioning,14,424 
+Phillip,670,2,2,1,Air conditioning,14,399 
+Ainslie,650,3,1,2,nan,13,539 
+Holt,650,3,2,2,Secure Parking,10,816 
+Campbell,690,2,2,2,Secure Parking,13,628 
+Mawson,670,3,2,2,nan,13,926 
+Harrison,650,3,2,2,Pets Allowed,11,358 
+City,700,2,2,1,Air conditioning,13,1333 
+Braddon,690,2,1,1,Built in wardrobes,13,518 
+nan,650,3,2,2,Secure Parking,9,381 
+Holt,680,3,2,2,Air conditioning,10,892 
+Turner,nan,2,2,2,Pets Allowed,13,222 
+Harrison,700,4,2,2,Close to transport,7,748 
+City,650,2,1,1,Balcony,13,1121 
+Florey,650,3,1,3,Secure Parking,12,649 
+Hackett,650,3,1,1,nan,13,667 
+nan,700,3,2,2,Secure Parking,8,440 
+Belconnen,650,2,2,2,Energy Eff. Rating: 6,10,346 
+Harrison,700,4,2,2,Air conditioning,7,594 
+Belconnen,680,2,2,1,Energy Eff. Rating: 5,10,331 
+Taylor,680,3,1,2,Secure Parking,11,768 
+Bonner,680,4,3,2,Ensuite,7,1378 
+Denman Prospect,700,2,2,2,Air conditioning,7,855 
+Lyneham,680,2,2,2,Air conditioning,13,307 
+Phillip,650,2,2,1,Air conditioning,14,551 
+Dickson,680,2,2,1,Air conditioning,13,315 
+Latham,665,3,2,1,Secure Parking,10,236 
+Strathnairn,700,3,2,2,Secure Parking,8,2475 
+Narrabundah,650,4,1,3,Secure Parking,15,283 
+Taylor,680,4,2,2,Secure Parking,10,332 
+Franklin,650,3,1,1,Energy Eff. Rating: 5,10,460 
+Palmerston,649,3,2,2,Pets Allowed,11,475 
+nan,700,3,2,1,Ensuite,12,485 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Melba,680,3,2,2,Secure Parking,12,518 
+Oaks Estate,680,3,2,2,Fully fenced,7,1672 
+Scullin,700,3,1,2,Built in wardrobes,13,416 
+Kingston,675,2,1,1,Secure Parking,15,1182 
+Palmerston,670,3,1,2,Built in wardrobes,11,524 
+Dickson,695,3,1,2,Fireplace(s),14,533 
+Latham,685,3,1,2,Secure Parking,10,256 
+Evatt,690,3,2,5,Secure Parking,12,746 
+Bruce,650,2,3,2,Broadband internet access,12,958 
+Evatt,680,4,1,2,Internal Laundry,12,781 
+Watson,700,3,1,1,Air conditioning,14,472 
+Holder,700,4,1,2,Air conditioning,11,623 
+Coombs,665,3,2,2,Internal Laundry,9,228 
+nan,650,3,1,0,nan,12,808 
+Curtin,720,3,1,1,nan,13,223 
+Latham,735,4,2,1,Floorboards,10,252 
+Garran,720,3,2,2,nan,13,404 
+Calwell,750,4,2,1,Air conditioning,10,631 
+Nicholls,nan,4,2,2,Ensuite,12,603 
+O'Connor,700,3,1,0,nan,13,318 
+Macquarie,740,3,1,1,Secure Parking,9,522 
+Rivett,730,3,2,2,Courtyard,14,1032 
+Pearce,700,2,2,2,Energy Eff. Rating: 4,13,518 
+Kingston,nan,3,2,2,Heating,15,692 
+Campbell,700,2,1,1,nan,13,684 
+Weston,700,3,1,1,nan,14,372 
+Dunlop,730,4,2,2,Built in wardrobes,9,1375 
+Taylor,710,4,2,2,Energy Eff. Rating: 7.5,8,867 
+Narrabundah,750,2,2,2,Air conditioning,15,421 
+Reid,700,2,2,2,Pets Allowed,13,790 
+Braddon,750,2,2,2,Balcony,13,444 
+Kingston,735,1,1,1,Furnished,15,1142 
+Harrison,720,4,2,2,nan,7,597 
+Bonner,750,3,2,2,nan,9,306 
+Mawson,720,3,2,2,nan,13,484 
+Giralang,nan,4,2,1,Built in wardrobes,11,621 
+Mawson,700,4,1,2,nan,13,729 
+Dickson,720,4,2,2,Secure Parking,14,257 
+Gilmore,750,4,2,2,Secure Parking,9,437 
+Theodore,735,4,2,2,Air conditioning,8,618 
+Phillip,750,3,2,2,nan,14,458 
+Evatt,700,4,2,1,Energy Eff. Rating: 2,12,749 
+Lyons,730,4,1,2,Energy Eff. Rating: 1.5,14,926 
+Kambah,nan,3,1,2,Floorboards,14,663 
+Narrabundah,700,3,1,1,nan,14,625 
+Braddon,nan,2,2,2,Built in wardrobes,13,601 
+Phillip,750,3,2,2,Balcony,14,892 
+Turner,750,2,2,2,nan,13,385 
+Kingston,750,2,2,2,nan,15,677 
+Phillip,710,3,2,2,Balcony,14,547 
+Barton,730,2,1,1,Spacious living and dining areas,14,290 
+City,735,2,1,1,Pets Allowed,13,1645 
+McKellar,nan,3,3,2,Air conditioning,12,1348 
+City,720,2,2,2,Air conditioning,13,1235 
+Dickson,700,2,2,1,Air conditioning,14,454 
+Crace,730,4,2,2,Secure Parking,10,1201 
+Griffith,700,2,2,2,nan,15,520 
+Cook,700,3,2,1,Floorboards,10,449 
+Kaleen,720,3,1,4,Secure Parking,12,379 
+Yarralumla,750,3,1,2,Air conditioning,14,169 
+Dickson,695,1,1,1,Air conditioning,14,508 
+Kingston,720,3,2,2,nan,15,692 
+Bruce,720,3,2,2,nan,12,765 
+Garran,720,3,2,2,nan,13,404 
+Weston,700,3,1,2,Secure Parking,14,1104 
+Wanniassa,695,3,2,2,nan,13,411 
+Griffith,750,2,2,2,nan,15,753 
+Palmerston,nan,4,2,2,nan,12,174 
+Lawson,720,3,2,2,Secure Parking,12,965 
+Kingston,nan,2,2,2,Intercom,15,608 
+Taylor,725,4,2,2,nan,10,360 
+Turner,740,2,2,2,Secure Parking,13,682 
+Braddon,700,2,1,1,Built in wardrobes,13,518 
+Hackett,710,4,1,2,Close to transport,13,177 
+Forrest,740,2,2,2,nan,14,453 
+Ainslie,nan,3,1,2,Heating,14,322 
+Throsby,725,3,2,2,Contemporary Complex,7,91 
+Griffith,720,2,2,2,Air conditioning,15,234 
+Torrens,700,3,2,1,Secure Parking,13,296 
+Gungahlin,750,4,2,1,nan,10,1315 
+Phillip,710,3,2,2,Balcony,14,547 
+Griffith,750,2,2,2,Air conditioning,15,234 
+Griffith,720,2,2,2,nan,15,520 
+Pearce,725,4,2,1,Floorboards,13,203 
+Barton,750,2,2,2,Air conditioning,14,229 
+Gungahlin,720,3,2,2,Built in wardrobes,10,1195 
+Lyons,695,3,1,1,Secure Parking,14,1302 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Kingston,750,3,2,2,nan,15,691 
+Mawson,nan,3,2,2,Air conditioning,13,283 
+Waramanga,700,4,1,1,Built in wardrobes,13,483 
+Braddon,nan,2,2,2,Ensuite(s),13,558 
+Ainslie,720,3,1,2,Secure Parking,13,518 
+Duffy,750,4,1,3,nan,10,422 
+Lawson,720,3,2,2,Secure Parking,12,1090 
+Denman Prospect,730,3,2,2,Secure Parking,7,754 
+Wanniassa,720,4,2,2,Dishwasher,12,299 
+Whitlam,725,3,2,2,Secure Parking,4,3188 
+Kingston,725,2,2,2,nan,15,1142 
+Kingston,740,2,2,2,Air conditioning,15,579 
+Strathnairn,700,3,2,2,Secure Parking,8,2475 
+O'Connor,700,3,1,2,Pets Allowed,13,1143 
+Bruce,740,3,2,2,Courtyard,12,686 
+Harrison,750,4,2,2,nan,10,1309 
+City,700,2,2,1,Air conditioning,13,1333 
+Campbell,750,3,1,2,Air conditioning,13,568 
+Braddon,750,2,2,2,Air conditioning,13,604 
+Turner,nan,2,2,2,Pets Allowed,13,222 
+Braddon,720,2,2,2,Air conditioning,13,518 
+Lyneham,750,2,2,1,Air conditioning,13,575 
+Braddon,700,2,2,1,Air conditioning,13,577 
+Belconnen,750,3,2,2,Air conditioning,10,160 
+Harrison,700,4,2,2,Close to transport,7,748 
+Kingston,740,2,2,2,Air conditioning,15,681 
+Denman Prospect,700,2,2,2,Air conditioning,7,855 
+nan,700,3,2,2,Secure Parking,8,440 
+Harrison,700,4,2,2,Air conditioning,7,594 
+Watson,740,3,2,2,Secure Parking,14,1007 
+nan,750,3,2,2,Secure Parking,11,120 
+Reid,720,2,2,2,Air conditioning,13,704 
+Watson,740,3,2,2,Secure Parking,14,1007 
+Lawson,750,3,2,2,Secure Parking,12,969 
+Braddon,750,2,2,1,Energy Eff. Rating: 6,13,805 
+nan,750,3,2,2,Secure Parking,14,68 
+Taylor,680,4,2,2,Secure Parking,10,332 
+Gungahlin,720,4,3,2,Ensuite,10,1220 
+nan,700,3,2,1,Ensuite,12,485 
+nan,730,4,2,3,nan,15,54 
+Braddon,720,2,2,1,Air conditioning,13,518 
+Nicholls,740,4,2,2,nan,12,346 
+Ngunnawal,720,4,2,2,Secure Parking,13,552 
+Braddon,720,2,2,2,nan,13,604 
+Dickson,750,3,2,1,Air conditioning,14,343 
+Nicholls,750,4,2,2,nan,12,1079 
+Scullin,700,3,1,2,Built in wardrobes,13,416 
+Lyneham,720,3,1,1,Built in wardrobes,13,102 
+Watson,700,3,1,1,Air conditioning,14,472 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Acton,750,2,2,2,Gas,13,1989 
+Holder,700,4,1,2,Air conditioning,11,623 
+Evatt,690,3,2,5,Secure Parking,12,746 
+Kingston,nan,3,2,2,Heating,15,692 
+Throsby,775,4,2,1,nan,7,544 
+McKellar,nan,3,3,2,Air conditioning,12,1348 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Farrer,775,3,2,2,nan,13,670 
+Kingston,750,2,2,2,nan,15,677 
+Calwell,750,4,2,1,Air conditioning,10,631 
+Kingston,800,2,2,1,Air conditioning,15,757 
+Forde,780,4,2,2,Energy Eff. Rating: 5,9,874 
+Lyneham,800,3,2,2,Energy Eff. Rating: 6,13,575 
+Casey,780,4,2,2,Secure Parking,10,1053 
+Harrison,800,4,2,2,Secure Parking,8,651 
+Braddon,760,2,2,2,Balcony,13,546 
+Dickson,800,3,2,2,Energy Eff. Rating: 6.5,14,246 
+Dunlop,800,4,2,2,Air conditioning,9,731 
+Bonner,750,3,2,2,nan,9,306 
+Strathnairn,800,4,2,2,Built in wardrobes,8,2088 
+Braddon,750,2,2,2,Balcony,13,444 
+Narrabundah,750,2,2,2,Air conditioning,15,421 
+Braddon,800,3,1,2,nan,12,100 
+Palmerston,nan,4,2,2,nan,12,174 
+Dickson,780,2,2,1,Air conditioning,14,508 
+Braddon,nan,3,1,1,Pets Allowed,13,310 
+Phillip,750,3,2,2,nan,14,458 
+Griffith,750,2,2,2,nan,15,753 
+Curtin,800,5,3,1,nan,13,813 
+Giralang,nan,4,2,1,Built in wardrobes,11,621 
+Nicholls,800,5,2,2,Energy Eff. Rating: 3,12,423 
+Gilmore,750,4,2,2,Secure Parking,9,437 
+Braddon,800,3,2,2,Secure Parking,13,259 
+Phillip,750,3,2,2,Balcony,14,892 
+Wright,nan,4,2,2,Built in wardrobes,9,578 
+Strathnairn,785,4,2,2,Built in wardrobes,8,1932 
+Turner,750,2,2,2,nan,13,385 
+Amaroo,800,4,2,2,Secure Parking,11,874 
+Hughes,760,3,1,3,nan,13,300 
+Franklin,765,4,2,2,Air conditioning,11,488 
+Braddon,780,2,2,2,nan,13,601 
+Phillip,760,3,2,2,Energy Eff. Rating: 6,14,389 
+City,800,2,2,2,Balcony,13,1107 
+Yarralumla,750,3,1,2,Air conditioning,14,169 
+Braddon,nan,2,2,2,Energy Eff. Rating: 5,13,604 
+Griffith,750,2,2,2,Air conditioning,15,234 
+Belconnen,nan,2,2,2,Energy Eff. Rating: 5,12,758 
+Ainslie,nan,3,1,2,Heating,14,322 
+Throsby,800,4,2,2,Pets Allowed,8,1328 
+Belconnen,750,3,2,2,Air conditioning,10,160 
+Moncrieff,770,4,2,2,Air conditioning,8,466 
+Belconnen,800,2,2,2,Air conditioning,12,758 
+Mawson,nan,3,2,2,Air conditioning,13,283 
+Gungahlin,750,4,2,1,nan,10,1315 
+Barton,750,2,2,2,Air conditioning,14,229 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+City,800,2,2,2,Area Views,13,1711 
+Amaroo,800,4,2,2,nan,11,1150 
+Gungahlin,770,4,3,2,Secure Parking,10,868 
+Coombs,790,4,3,2,Built in wardrobes,9,662 
+Duffy,750,4,1,3,nan,10,422 
+Gungahlin,770,4,3,2,Secure Parking,10,857 
+Kingston,750,3,2,2,nan,15,691 
+Gungahlin,760,4,3,2,Ensuite,10,992 
+Phillip,760,3,2,2,Air conditioning,14,909 
+Campbell,760,4,1,2,Secure Parking,13,502 
+Higgins,780,6,2,2,nan,10,127 
+nan,750,3,2,2,Secure Parking,14,68 
+Dickson,750,3,2,1,Air conditioning,14,343 
+Franklin,800,4,2,2,Secure Parking,10,371 
+Nicholls,750,4,2,2,nan,12,1079 
+Kaleen,780,3,2,2,Remote Garage,11,632 
+Denman Prospect,730,3,2,2,Secure Parking,7,754 
+Ngunnawal,795,4,2,2,Built in wardrobes,13,485 
+Whitlam,725,3,2,2,Secure Parking,4,3188 
+Kingston,800,3,2,2,nan,15,691 
+Harrison,750,4,2,2,nan,10,1309 
+Gungahlin,800,4,2,2,nan,10,711 
+Braddon,770,3,2,2,nan,12,181 
+Throsby,775,4,2,2,Ducted heating and cooling,7,138 
+Braddon,750,2,2,2,Air conditioning,13,604 
+Lyneham,750,2,2,1,Air conditioning,13,575 
+Campbell,750,3,1,2,Air conditioning,13,568 
+nan,750,3,2,2,Secure Parking,11,120 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Lawson,750,3,2,2,Secure Parking,12,969 
+Griffith,770,1,1,1,Air conditioning,15,189 
+Ainslie,800,3,1,1,Air conditioning,13,836 
+Denman Prospect,790,3,3,2,Air conditioning,7,738 
+Strathnairn,780,4,2,2,Secure Parking,10,660 
+nan,800,2,2,2,Secure Parking,12,477 
+Gungahlin,800,3,2,2,Secure Parking,10,1050 
+Braddon,750,2,2,1,Energy Eff. Rating: 6,13,805 
+Acton,750,2,2,2,Gas,13,1989 
+Duffy,nan,4,2,1,Built in wardrobes,10,225 
+City,800,2,2,2,Balcony,13,1107 
+Strathnairn,800,4,2,2,Built in wardrobes,8,2088 
+Lyneham,800,3,2,2,Energy Eff. Rating: 6,13,575 
+Giralang,830,5,3,2,nan,11,358 
+Curtin,800,5,3,1,nan,13,813 
+Phillip,840,3,2,2,Gym,14,458 
+Nicholls,800,5,2,2,Energy Eff. Rating: 3,12,423 
+Kingston,800,2,2,1,Air conditioning,15,757 
+Strathnairn,850,4,2,2,Pets Allowed,8,2287 
+Bruce,835,3,2,2,Air conditioning,12,412 
+Curtin,850,5,2,2,Energy Eff. Rating: 1.5,13,614 
+Braddon,800,3,1,2,nan,12,100 
+Braddon,850,2,2,2,Furnished,13,660 
+Kingston,815,2,2,2,nan,15,1143 
+Harrison,800,4,2,2,Secure Parking,8,651 
+Dickson,800,3,2,2,Energy Eff. Rating: 6.5,14,246 
+Phillip,850,3,2,2,Air conditioning,14,488 
+Forde,850,4,2,2,Built in wardrobes,10,186 
+Page,810,4,2,2,Air conditioning,13,951 
+Dunlop,800,4,2,2,Air conditioning,9,731 
+Bruce,820,4,2,2,nan,12,440 
+Campbell,835,3,2,1,Ensuite,13,171 
+Braddon,nan,2,2,2,Energy Eff. Rating: 5,13,604 
+Amaroo,800,4,2,2,nan,11,1150 
+Throsby,800,4,2,2,Pets Allowed,8,1328 
+Phillip,820,3,2,2,Energy Eff. Rating: 6,14,389 
+Bruce,820,4,2,2,Air conditioning,12,467 
+Coombs,820,4,3,2,Secure Parking,9,643 
+Gungahlin,800,4,2,2,nan,10,711 
+Curtin,850,4,3,3,Multiple living areas,13,1016 
+City,800,2,2,2,Area Views,13,1711 
+Belconnen,800,2,2,2,Air conditioning,12,758 
+Nicholls,810,4,2,2,Air conditioning,11,1576 
+Red Hill,820,3,2,2,Ensuite,14,427 
+Bruce,830,4,2,2,Secure Parking,12,692 
+Braddon,800,3,2,2,Secure Parking,13,259 
+Kingston,850,2,3,2,Air conditioning,15,805 
+Taylor,850,5,3,3,Dishwasher,10,1198 
+Hackett,820,4,2,1,nan,13,196 
+Amaroo,800,4,2,2,Secure Parking,11,874 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Lyons,820,4,2,2,nan,14,1025 
+nan,800,2,2,2,Secure Parking,12,477 
+Flynn,850,4,2,4,Dishwasher,10,1063 
+Franklin,800,4,2,2,Secure Parking,10,371 
+Dickson,750,3,2,1,Air conditioning,14,343 
+Lyneham,850,3,2,2,Air conditioning,13,270 
+Gungahlin,800,3,2,2,Secure Parking,10,1050 
+Coombs,850,3,2,2,Secure Parking,9,393 
+Ainslie,800,3,1,1,Air conditioning,13,836 
+Barton,825,2,2,2,Secure Parking,14,787 
+Ngunnawal,795,4,2,2,Built in wardrobes,13,485 
+Gungahlin,850,4,2,2,Secure Parking,10,840 
+Phillip,815,3,2,2,nan,14,386 
+Kingston,800,3,2,2,nan,15,691 
+Coombs,820,4,3,2,Secure Parking,9,643 
+Barton,815,2,2,1,Air conditioning,14,410 
+Aranda,880,4,3,2,Air conditioning,10,391 
+Taylor,850,5,3,3,Dishwasher,10,1198 
+City,900,3,2,2,Ensuite,13,1310 
+Turner,nan,3,2,2,Built in wardrobes,13,276 
+City,875,1,1,1,nan,13,1823 
+Bonner,875,5,2,2,Fully fenced,7,1245 
+Mawson,899,3,3,2,nan,13,420 
+Duffy,900,5,3,3,nan,10,956 
+Curtin,850,4,3,3,Multiple living areas,13,1016 
+Lyneham,nan,3,2,1,nan,13,382 
+Kingston,850,2,3,2,Air conditioning,15,805 
+Forde,850,4,2,2,Built in wardrobes,10,186 
+Isaacs,895,5,3,2,Close to transport,13,1056 
+Isaacs,900,4,2,2,nan,13,919 
+Curtin,850,5,2,2,Energy Eff. Rating: 1.5,13,614 
+Braddon,850,2,2,2,Furnished,13,660 
+Narrabundah,900,3,2,2,Energy Eff. Rating: 4,15,598 
+Forde,895,4,2,2,Air conditioning,10,331 
+Strathnairn,850,4,2,2,Pets Allowed,8,2287 
+Phillip,850,3,2,2,Air conditioning,14,488 
+Coombs,850,3,2,2,Secure Parking,9,393 
+Flynn,850,4,2,4,Dishwasher,10,1063 
+Taylor,900,4,3,2,Built in wardrobes,9,501 
+Dickson,855,3,2,1,Gas,13,333 
+Gungahlin,800,3,2,2,Secure Parking,10,1050 
+Parkes,880,2,2,2,Pets Allowed,12,867 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Phillip,890,3,2,2,nan,14,458 
+Dickson,nan,2,3,1,Air conditioning,14,508 
+Denman Prospect,900,4,2,3,Ensuite(s),7,724 
+Turner,nan,3,2,3,Bath,13,394 
+Gungahlin,850,4,2,2,Secure Parking,10,840 
+Lyneham,850,3,2,2,Air conditioning,13,270 
+Coombs,920,4,2,2,nan,9,603 
+Campbell,950,3,2,2,Secure Parking,13,670 
+Dickson,nan,3,2,2,Air conditioning,14,508 
+Duffy,900,5,3,3,nan,10,956 
+Turner,nan,3,2,2,Built in wardrobes,13,276 
+City,900,3,2,2,Ensuite,13,1310 
+Wright,950,4,3,2,nan,7,1586 
+Kingston,950,3,2,2,Air conditioning,15,1104 
+Denman Prospect,900,4,2,3,Ensuite(s),7,724 
+Reid,950,3,2,1,Built in wardrobes,13,650 
+Lyneham,nan,3,2,1,nan,13,382 
+Mawson,899,3,3,2,nan,13,420 
+Hackett,950,3,2,2,Air conditioning,13,178 
+Isaacs,895,5,3,2,Close to transport,13,1056 
+Isaacs,900,4,2,2,nan,13,919 
+Torrens,950,4,2,2,nan,13,454 
+Denman Prospect,930,4,2,2,Air conditioning,7,742 
+Forde,895,4,2,2,Air conditioning,10,331 
+Narrabundah,900,3,2,2,Energy Eff. Rating: 4,15,598 
+Denman Prospect,950,4,2,2,Secure Parking,7,699 
+Bonner,950,5,3,2,Secure Parking,9,557 
+Phillip,945,1,1,1,Air conditioning,14,721 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Taylor,900,4,3,2,Built in wardrobes,9,501 
+Woden,945,1,1,1,Air conditioning,14,715 
+Wright,950,4,3,2,nan,7,1586 
+Campbell,950,3,2,2,Secure Parking,13,670 
+Kingston,950,3,2,2,Air conditioning,15,1104 
+Narrabundah,nan,4,2,1,Air conditioning,14,594 
+Reid,950,3,2,1,Built in wardrobes,13,650 
+Lawson,980,5,3,2,Dishwasher,12,1184 
+Gungahlin,960,5,2,3,Air conditioning,10,1263 
+Red Hill,nan,3,2,2,nan,14,224 
+Wright,980,4,2,2,Main bedroom with walk-in wardrobe and ensuite,10,639 
+Hackett,990,4,3,2,Dishwasher,11,926 
+Mawson,960,4,2,4,Pets Allowed,13,401 
+Torrens,1000,5,2,1,nan,13,281 
+Kingston,960,3,3,2,nan,15,847 
+Page,nan,4,2,2,Energy Eff. Rating: 6.7,13,913 
+Denman Prospect,930,4,2,2,Air conditioning,7,742 
+Denman Prospect,950,4,2,2,Secure Parking,7,699 
+Hackett,950,3,2,2,Air conditioning,13,178 
+Red Hill,990,4,2,2,Swimming Pool,14,554 
+Forrest,nan,3,2,2,nan,14,471 
+Torrens,950,4,2,2,nan,13,454 
+Kingston,1000,2,2,2,Internal Laundry,15,1230 
+Strathnairn,1000,4,2,2,Newly constructed,10,660 
+Bonner,950,5,3,2,Secure Parking,9,557 
+Campbell,nan,1,1,1,Air conditioning,13,638 
+nan,970,3,1,3,Outdoor Entertainment Area,14,808 
+Griffith,630,1,1,1,Air conditioning,15,273 
+Casey,nan,4,2,2,Air conditioning,10,1253 
+Mawson,960,3,1,2,Fully fenced,13,457 
+Strathnairn,1000,4,2,2,Newly constructed,10,660 
+Deakin,nan,5,3,2,Air conditioning,14,751 
+Casey,nan,4,2,2,Air conditioning,10,1253 
+Red Hill,nan,3,2,2,nan,14,224 
+Narrabundah,nan,4,2,1,Air conditioning,14,594 
+Forrest,nan,3,2,2,nan,14,471 
+Whitlam,1050,4,3,2,Built in wardrobes,4,3193 
+Campbell,nan,1,1,1,Air conditioning,13,638 
+Kingston,1000,2,2,2,Internal Laundry,15,1230 
+City,1050,3,2,2,Energy Eff. Rating: 5,13,1235 
+Torrens,1000,5,2,1,nan,13,281 
+Taylor,1100,4,3,2,nan,10,862 
+City,1050,3,2,2,Energy Eff. Rating: 5,13,1235 
+Red Hill,nan,4,2,2,nan,14,354 
+Wright,nan,4,3,2,Secure Parking,7,1753 
+Garran,nan,5,2,2,Built in wardrobes,13,926 
+Taylor,nan,4,4,2,Secure Parking,11,768 
+Whitlam,1050,4,3,2,Built in wardrobes,4,3193 
+Yarralumla,nan,3,2,2,Secure Parking,14,516 
+Mawson,1100,4,3,2,Pets Allowed,13,430 
+Lyneham,1100,5,3,2,Dishwasher,12,1311 
+Whitlam,1100,4,3,2,Study,5,3159 
+Yarralumla,nan,4,2,2,nan,14,183 
+Taylor,nan,4,4,2,Secure Parking,11,768 
+Mawson,1100,4,3,2,Pets Allowed,13,430 
+Garran,nan,5,2,2,Built in wardrobes,13,926 
+Yarralumla,nan,3,2,2,Secure Parking,14,516 
+Lyneham,1100,5,3,2,Dishwasher,12,1311 
+Taylor,1100,4,3,2,nan,10,862 
+Red Hill,nan,4,2,2,nan,14,354 
+Yarralumla,nan,4,2,2,Ensuite,14,652 
+Wright,nan,4,3,2,Secure Parking,7,1753 
+Campbell,nan,3,3,2,nan,13,545 
+Yarralumla,nan,4,2,2,nan,14,183 
+Whitlam,1100,4,3,2,Study,5,3159 
+Campbell,nan,3,2,2,Built in wardrobes,13,411 
+Denman Prospect,nan,4,3,2,Balcony,7,740 
+Yarralumla,nan,4,2,2,Ensuite,14,652 
+Wright,nan,5,3,2,Secure Parking,7,1448 
+Pearce,nan,4,3,2,Study,13,526 
+Griffith,nan,3,2,2,Ensuite,15,758 
+Crace,nan,5,3,2,Kitchen with gourmet sized gas cooking and large walk-in pantry,11,716 
+Deakin,nan,4,2,2,nan,14,477 
+Watson,nan,4,3,2,Air conditioning,13,1027 
+Forde,1200,5,3,4,Air conditioning,10,286 
+Wright,nan,5,3,2,Secure Parking,7,1778 
+Griffith,1190,3,2,2,Secure Parking,15,520 
+Watson,nan,4,3,2,Air conditioning,13,1027 
+Griffith,nan,3,2,2,Ensuite,15,758 
+Denman Prospect,nan,4,3,2,Balcony,7,740 
+Garran,nan,4,3,2,Energy Eff. Rating: 6.5,13,419 
+Wright,nan,5,3,2,Secure Parking,7,1448 
+Wright,nan,5,3,2,Secure Parking,7,1778 
+Crace,nan,5,3,2,Kitchen with gourmet sized gas cooking and large walk-in pantry,11,716 
+Forde,1200,5,3,4,Air conditioning,10,286 
+Pearce,nan,4,3,2,Study,13,526 
+Deakin,nan,4,2,2,nan,14,477 
+Deakin,1300,4,2,2,Air conditioning,15,573 
+Denman Prospect,nan,4,3,2,Balcony,7,740 
+Crace,nan,5,3,2,Kitchen with gourmet sized gas cooking and large walk-in pantry,11,716 
+Coombs,1280,5,3,4,nan,9,982 
+Garran,nan,4,3,2,Energy Eff. Rating: 6.5,13,419 
+Denman Prospect,nan,4,3,2,Balcony,7,740 
+Crace,nan,5,3,2,Kitchen with gourmet sized gas cooking and large walk-in pantry,11,716 
+Deakin,1300,4,2,2,Air conditioning,15,573 
+City,nan,3,3,2,Air conditioning,13,1333 
+O'Malley,1400,4,3,6,Air conditioning,13,883 
+Narrabundah,1395,5,2,2,Air conditioning,15,165 
+O'Malley,1400,4,3,6,Air conditioning,13,883 
+O'Connor,nan,5,3,2,Courtyard,13,326 
+City,nan,3,3,2,Air conditioning,13,1333 
+Yarralumla,1500,4,3,2,Balcony,14,606 
+Phillip,nan,3,2,2,nan,14,547 
+nan,nan,4,2,2,Outdoor Entertainment Area,12,725 
+Kambah,nan,4,3,2,nan,10,813 
+O'Connor,nan,5,3,2,Courtyard,13,326 
+O'Malley,1500,5,3,3,nan,13,745 
+Yarralumla,1500,4,3,2,Balcony,14,606 
+Isaacs,1500,5,4,5,Study,13,1319 
+nan,nan,4,2,2,Outdoor Entertainment Area,12,725 
+O'Malley,1500,5,3,3,nan,13,745 
+O'Connor,nan,5,3,2,Courtyard,13,326 
+Phillip,nan,3,2,2,nan,14,547 
+Isaacs,1500,5,4,5,Study,13,1319 
+Kambah,nan,4,3,2,nan,10,813 
+Yarralumla,1500,4,3,2,Balcony,14,606 
+Red Hill,nan,5,3,4,Pets Allowed,14,180 
+Yarralumla,1500,4,3,2,Balcony,14,606 
+O'Malley,1650,4,2,2,Energy Eff. Rating: 6,13,1043 
+Garran,1570,4,2,4,Energy Eff. Rating: 6,13,440 
+Phillip,nan,3,2,2,nan,14,547 
+O'Malley,1650,4,2,2,Energy Eff. Rating: 6,13,1043 
+Phillip,nan,3,2,2,nan,14,547 
+Red Hill,nan,5,3,4,Pets Allowed,14,180 
+Red Hill,nan,4,3,2,Secure Parking,14,447 
+Red Hill,nan,4,3,2,Secure Parking,14,447 
+Deakin,2400,4,3,3,Secure Parking,15,282 
+Deakin,2400,4,3,3,Secure Parking,15,282 
+Campbell,2650,4,4,6,Secure Parking,13,544 
+Campbell,2650,4,4,6,Secure Parking,13,544 
+Red Hill,nan,7,6,5,Air conditioning,14,723 
+Red Hill,nan,7,6,5,Air conditioning,14,723 
