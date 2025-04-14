@@ -1,0 +1,40 @@
+# macOS file
+.DS_Store
+
+# Python cache and environment 
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# environment config
+.env
+.venv/
+venv/
+env/
+Pipfile.lock
+poetry.lock
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# cache of unit test
+.tox/
+.nox/
+.pytest_cache/
+
+# Jupyter output image or cache
+*.png
+*.pdf
+*.svg
+*.eps
+
+
