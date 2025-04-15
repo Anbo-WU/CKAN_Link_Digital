@@ -32,7 +32,6 @@ poetry.lock
 .pytest_cache/
 
 # Jupyter output image or cache
-*.png
 *.pdf
 *.svg
 *.eps
