@@ -1,0 +1,188 @@
+/* Custom CSS for the OOI App */
+/* Reset and Base Styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  min-height: 100%; /* Ensure html takes full height */
+  font-size: 16px; /* Base font size */
+}
+
+body {
+  min-height: 100vh; /* Full viewport height */
+  background-color: #000000; /* Black background */
+  color: #ffffff; /* White text */
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace; /* Monospaced font */
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex; /* Needed for footer sticking */
+  flex-direction: column; /* Needed for footer sticking */
+}
+
+/* Main App Wrapper (target #app in App.vue) */
+#app {
+  flex: 1; /* Allow main content area to grow */
+  display: flex;
+  flex-direction: column;
+}
+
+/* General Container for Views */
+.view-container {
+  flex-grow: 1; /* Allow view content to push footer down */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Center content vertically for shorter pages */
+  padding: 40px 0px;
+  width: 100%;
+}
+
+/* Specific Content Box within the container */
+.content-box {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  padding: 0px; /* Add padding inside the box */
+  /* Optional: Add subtle border or background if needed */
+  /* border: 1px solid #050; */
+  /* background-color: rgba(0, 10, 0, 0.1); */
+}
+
+
+/* Headings */
+h1, h2, h3 {
+  color: #ffffff;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2.2rem;
+  color: #ff0; /* Yellow for main titles */
+}
+
+h2 {
+  font-size: 1.6rem;
+  color: #eee; /* Slightly dimmer for H2 */
+  margin-top: 1.5rem; /* Space above H2 */
+  /* Optional border */
+  /* border-top: 1px dashed #0f0; */
+  /* padding-top: 1rem; */
+}
+
+/* Paragraphs and Text */
+p {
+  color: #cccccc; /* Lighter grey */
+  margin-bottom: 1rem;
+  max-width: 700px; /* Limit text width for readability */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+strong {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/* Links */
+a {
+  color: #00ff00; /* Green links */
+  text-decoration: none;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+a:hover {
+  color: #ffffff;
+  /* Optional: slight background */
+  /* background-color: rgba(0, 255, 0, 0.1); */
+  text-decoration: underline;
+}
+
+
+/* Basic Button/Link Styling (can be customized per component) */
+.action-link,
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 5px;
+  font-size: 1em;
+  font-weight: bold;
+  color: #00ff00; /* Green text */
+  background-color: transparent;
+  border: 1px solid #00ff00; /* Green border */
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit; /* Use monospace font */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.action-link:hover,
+button:hover {
+  background-color: rgba(0, 255, 0, 0.1);
+  color: #ffffff;
+  text-decoration: none; /* Remove underline on hover for buttons */
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Input Fields */
+input[type="text"],
+input[type="email"] {
+    padding: 10px;
+    background-color: #111;
+    border: 1px solid #0f0;
+    color: #0f0;
+    font-family: inherit;
+    border-radius: 4px;
+    margin: 5px;
+}
+input::placeholder {
+    color: #555;
+}
+
+
+/* Green Dot Style (if used elsewhere) */
+.green-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: #00ff00;
+  border-radius: 50%;
+  margin-left: 10px;
+  box-shadow: 0 0 4px #00ff00;
+  vertical-align: middle; /* Align better with text */
+}
+
+/* Utility for key principles or highlights */
+.key-principle {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* Basic error/loading messages */
+.error-message {
+    color: #f00; /* Red */
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.loading-message {
+    color: #ff0; /* Yellow */
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.success-message {
+    color: #0f0; /* Green */
+    font-weight: bold;
+    margin-top: 1rem;
+}

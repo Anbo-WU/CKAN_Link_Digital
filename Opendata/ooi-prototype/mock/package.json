@@ -1,0 +1,10 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "mysql2": "^3.14.0",
+    "ua-parser-js": "^2.0.3"
+  }
+}
